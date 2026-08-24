@@ -147,8 +147,7 @@ h1, h2, h3 { font-family: var(--display); font-weight: 400; letter-spacing: .02e
   border: 2px double var(--ink);
   transform: rotate(-4deg);
   opacity: .8;
-  mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='40'><filter id='r'><feTurbulence baseFrequency='.6' numOctaves='2'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 -1.2'/></filter><rect width='120' height='40' fill='white' filter='url(%23r)'/></svg>");
-  -webkit-mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='40'><filter id='r'><feTurbulence baseFrequency='.6' numOctaves='2'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 -1.2'/></filter><rect width='120' height='40' fill='white' filter='url(%23r)'/></svg>");
+  background: var(--paper);
 }
 
 hr.orn { border: 0; text-align: center; height: 22px; margin: 26px 0; overflow: visible; }

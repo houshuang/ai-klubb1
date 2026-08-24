@@ -1,0 +1,2626 @@
+[
+ {
+  "tittel": "Tirsdagsjingle med tabbe",
+  "teaser": "Kom inn, kom inn – her får du en butikkjingle med hemmelig kode og én deilig feil!",
+  "oppdrag": "Lag en 10–15 sekunders jingle for en butikk i Hamar. Den skal handle om en helt vanlig tirsdag, skjule en liten hemmelighet og ha én feil med vilje, for eksempel en rar rimlinje eller en tone som kommer på feil sted. Bruk AI til å forstå hva som gjør en jingle lett å huske, men lag selve jinglen med din egen stemme, klapping eller lyder rundt deg.",
+  "steg": [
+   {
+    "tid": "2 min",
+    "tekst": "Velg en butikk i Hamar, og bestem deg for den hemmelige detaljen og den planlagte feilen. Skriv tre stikkord på papir eller i Notater."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Spør ChatGPT, Claude eller Gemini: «Hva kjennetegner en jingle folk husker? Forklar det enkelt med tre konkrete råd.» Still ett oppfølgingsspørsmål om noe du ikke skjønner, til du kan forklare rådene med egne ord."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Skriv et kort jingleutkast med butikkens navn, tirsdag, hemmeligheten og feilen. Fremfør eller spill det inn med stemmen, klapping, nynning eller lyder fra rommet."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Lag et nytt forsøk etter ett av rådene du lærte. Gjør én tydelig forbedring, men behold feilen med vilje."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Gjør klar før-og-etter-versjonen, og bestem hvilken forskjell du vil peke på."
+   }
+  ],
+  "ai_grepet": "Bruk AI som lærer, ikke som låtskriver: spør til du forstår ett håndverkstriks, og bruk deretter kunnskapen til å lage noe selv. Dette kan overføres til alt fra rap og filmklipp til plakater og spilldesign.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT",
+    "hvorfor": "Enkel å spørre med vanlig språk, og kan forklare jingletriks steg for steg."
+   },
+   {
+    "navn": "Claude",
+    "hvorfor": "God til korte, tydelige forklaringer og oppfølgingsspørsmål."
+   },
+   {
+    "navn": "Gemini",
+    "hvorfor": "Fungerer fint som gratis tekstsamtale for å lære ett konkret grep."
+   },
+   {
+    "navn": "Papir, mobilens opptaker eller kamera",
+    "hvorfor": "Du lager og viser jinglen selv, uten at AI trenger å produsere lyd."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Bruk formen «butikkens navn – tirsdag – hemmelighet – feil – butikkens navn».",
+   "Be AI forklare forskjellen på et refreng, rytme og gjentakelse med ett eksempel.",
+   "La feilen være en setning som rimer nesten, men ikke helt: «Tirsdag hos oss, det smaker som en ... paraply!»"
+  ],
+  "vis_fram": "Spill først det korte første forsøket, så det siste. Si på én setning: «Jeg lærte at ..., derfor endret jeg ... – men feilen er fortsatt ...»",
+  "bonus": "La en annen person gjette hvilken del som var hemmeligheten og hvilken del som var feilen.",
+  "til_hjelperen": "Se etter om deltakeren faktisk kan forklare rådet fra AI med egne ord, ikke bare kopiere det. Spør: «Hva lærte du om jingler, og hvor hører vi det i ditt siste forsøk?»",
+  "tags": [
+   "lyd",
+   "jingle",
+   "Hamar",
+   "AI som lærer",
+   "før og etter"
+  ],
+  "minutter": 15,
+  "kategori": "lyd",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en jingle for en butikk i Hamar",
+   "tema": [
+    "en helt vanlig tirsdag",
+    "en hemmelighet"
+   ],
+   "vri": "det må inneholde en feil med vilje"
+  }
+ },
+ {
+  "tittel": "Mjøsas Feilende Hymne",
+  "teaser": "Kom inn, kom inn – her får dere høre nasjonalsangen til øya som ikke finnes, men som selvsagt ligger midt i Mjøsa!",
+  "oppdrag": "Lag en 30 sekunder lang nasjonalsang for en oppdiktet øy i Mjøsa. Den skal avsløre noe alle tror er sant, men som faktisk er feil, og inneholde én tydelig feil med vilje. Før dere lager sangen, skal AI intervjue dere og bruke svarene deres som råstoff.",
+  "steg": [
+   {
+    "tid": "2 min",
+    "tekst": "Uten AI: Finn på øyas navn, én ting som er fantastisk med å være 15, og én «sannhet» folk tror på som dere vil avsløre. Bestem også en bevisst feil, for eksempel feil fakta, feil rim, feil tone eller en absurd nasjonalhelt."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Be en tekst-AI intervjue gruppa først. Skriv: «Du er intervjuer for en oppdiktet øy i Mjøsa. Still oss ett spørsmål om gangen om øyas navn, livet som 15-åring, den falske sannheten og den planlagte feilen. Vent på svaret vårt før neste spørsmål. Ikke lag sangen ennå.» Svar kort og litt tullete."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Når intervjuet er ferdig, be AI-en lage et kort sangutkast basert bare på svarene deres. Velg selv hva dere beholder, og gjør teksten mer deres: legg inn øynavnet, avsløringen og feilen med vilje. Finn en melodi eller rytme dere kan synge, rappe eller rope sammen."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Øv én gang og kutt alt som ikke rekker å bli tydelig på 30 sekunder. Gi sangen et ekstra kjennetegn: en felles bevegelse, et rop eller en dramatisk pause før feilen."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Framfør nasjonalsangen for gruppa uten forklaring først. Etterpå kan dere si én setning: «Feilen vår var …»"
+   }
+  ],
+  "ai_grepet": "Du lar AI intervjue dere før den får lage noe. Svarene deres blir råstoffet, slik at AI-en må bygge videre på gruppas egne ideer i stedet for å starte med en ferdig standardlåt.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan intervjue dere i chat og deretter hjelpe med å forme svarene til en kort sangtekst."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å samle intervjusvar, velge linjer og redigere teksten sammen."
+   },
+   {
+    "navn": "Mobilkamera eller mobilens opptaker",
+    "hvorfor": "Dere kan øve, ta opp rytmen eller spille av framføringen med litt avstand."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Fungerer helt uten konto og gjør det lett å streke over AI-forslag og skrive deres egne linjer."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Be AI-en stille bare tre spørsmål: Hva heter øya? Hva er best med å være 15 der? Hvilken feil «sannhet» skal avsløres?",
+   "Bruk en enkel rytme: klapp–klapp–pause, og legg én tekstlinje oppå.",
+   "La den bevisste feilen være helt åpenbar, som at Mjøsa egentlig er laget av appelsinbrus."
+  ],
+  "vis_fram": "Start rett på refrenget eller nasjonalropet og framfør hele 30-sekunderslåten. Ikke forklar først; la publikum oppdage feilen mens dere synger.",
+  "bonus": "Lag en kort fanfare med stemmer eller bordtromming før sangen, som om øyas landslag nettopp har vunnet noe helt ubetydelig.",
+  "til_hjelperen": "Se etter at ungdommene faktisk svarer selv før AI-en skriver, og at de redigerer teksten i stedet for å lese den opp ukritisk. Spør: «Hvilken linje kunne bare denne gruppa ha funnet på?»",
+  "tags": [
+   "lyd",
+   "nasjonalsang",
+   "Mjøsa",
+   "AI-intervju",
+   "med vilje-feil"
+  ],
+  "minutter": 15,
+  "kategori": "lyd",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en nasjonalsang for en oppdiktet øy i Mjøsa",
+   "tema": [
+    "noe alle tror er sant men som er feil",
+    "det beste med å være 15"
+   ],
+   "vri": "det må inneholde en feil med vilje"
+  }
+ },
+ {
+  "tittel": "Hemmeligheten på forsiden",
+  "teaser": "Kom inn, kom inn – lag boka ingen seksåring klarer å motstå å åpne!",
+  "oppdrag": "Lag et bokomslag om det beste med å være 15, med en hemmelighet gjemt i bildet eller tittelen. Det må kunne forstås av en 6-åring, uten lang forklaring. Bruk AI til å lage tre helt ulike stiler, og velg den som føles mest som deg.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Finn på en hemmelighet som en 15-åring kunne ha, for eksempel «jeg tør mer enn folk tror» eller «alle later som de har kontroll». Velg også én ting som er best med å være 15. Skriv en kort boktittel og bestem deg for hva som skal synes på forsiden."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Åpne ett bildeverktøy og be AI lage tre helt ulike forslag til bokomslaget: ett morsomt, ett mystisk og ett fargerikt eller drømmende. Ta med tittelen, hemmeligheten og at bildet skal forstås av en 6-åring. Eksempel: «Lag tre helt ulike bokomslag med tittelen …»"
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Velg stilen som er mest deg. Lag eller sett sammen den endelige forsiden med tittel, bilde og gjerne navnet ditt som forfatter. Fjern detaljer som ikke passer, og sjekk at hemmeligheten fortsatt er mulig å oppdage."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Vis omslaget på skjermen eller heng det opp. Legg ved en lapp med prompten du brukte, og gjør deg klar til å si én setning om hemmeligheten."
+   }
+  ],
+  "ai_grepet": "Du ber AI lage tre tydelig forskjellige stiler i stedet for å godta første forslag. Så tar du selv redaktørrollen og velger den versjonen som passer deg best.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT-bilder",
+    "hvorfor": "Kan lage bokomslag direkte fra en enkel tekstbeskrivelse og gi flere stilforslag."
+   },
+   {
+    "navn": "Microsoft Designer",
+    "hvorfor": "Har gratis bilde- og designfunksjoner som passer til en rask forside."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Kan brukes til å sette sammen et AI-bilde, tittel og forfatternavn; gratisversjonen holder til oppgaven."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Tegn tre stilforslag selv, velg ett, og fotografer omslaget."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Tenk på én liten ting som gjør livet som 15-åring bra: frihet, venner, musikk, å bestemme mer eller å være nesten voksen.",
+   "Gjem hemmeligheten i et symbol, en farge eller en liten figur i bildet.",
+   "Bruk en enkel prompt: «Bokomslag for barn, tittelen …, om det beste med å være 15 og hemmeligheten …, lett å forstå for en 6-åring, stil 1: morsom.»"
+  ],
+  "vis_fram": "Heng omslaget på veggen eller vis det på skjermen sammen med en lapp med prompten. Si: «Hemmeligheten er …, og jeg valgte denne stilen fordi …»",
+  "bonus": "Lag en liten bokrygg eller baksidetekst på én setning som gjør folk enda mer nysgjerrige.",
+  "til_hjelperen": "Se etter om ungdommen faktisk har valgt mellom tre ulike retninger, ikke bare brukt første bilde. Spør: «Hva i omslaget gjør at en seksåring kan skjønne hva boka handler om?»",
+  "tags": [
+   "bilde",
+   "bokomslag",
+   "AI som stilgenerator",
+   "hemmelighet",
+   "15 år"
+  ],
+  "minutter": 15,
+  "kategori": "bilde",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "et bokomslag",
+   "tema": [
+    "en hemmelighet",
+    "det beste med å være 15"
+   ],
+   "vri": "det må kunne forstås av en 6-åring"
+  }
+ },
+ {
+  "tittel": "Kartet som lyver",
+  "teaser": "Kom inn og se det forsvunne stedet der en genial oppfinnelse gikk helt på trynet!",
+  "oppdrag": "Lag et gammeldags kart over et sted som ikke finnes lenger, eller aldri har eksistert. Kartet skal vise spor etter en oppfinnelse som mislyktes, og se ut som det kommer fra rundt 1900. Bruk AI som en kritisk kartkonsulent: Be den argumentere mot ideen deres, og svar på kritikken ved å endre kartet.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Finn på stedet, den mislykkede oppfinnelsen og minst tre ting som skal finnes på kartet. Gi stedet et navn som høres litt for seriøst ut."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Lag et første kartutkast med penn og papir, eller skriv en kort beskrivelse av kartet. Ta med stilgrep fra 1900, som kompassrose, håndskrift, stiplede ruter, advarsler eller merkelige symboler."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Be en tekst-AI argumentere mot ideen: Hva virker usannsynlig, kjedelig eller lite synlig på kartet? Be om tre konkrete innvendinger. Velg én innvending dere vil ta på alvor."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Svar på kritikken ved å endre kartet. Legg til, fjern eller omskap minst én detalj. Lag kartet ferdig digitalt eller gjør papirversjonen tydeligere."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Vis kartet til gruppa og fortell én ting som overrasket dere underveis."
+   }
+  ],
+  "ai_grepet": "AI brukes som motstander før kartet blir ferdig. Dere ber den finne svakheter i ideen, men bestemmer selv hvilken kritikk som faktisk gjør kartet bedre.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan spille kritisk kartkonsulent og peke på detaljer som mangler eller ikke henger sammen."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Passer til å lage et gammeldags kart med tekst, symboler, linjer og papirtekstur."
+   },
+   {
+    "navn": "ChatGPT-bilder eller Ideogram",
+    "hvorfor": "Kan lage et visuelt kartutkast i 1900-stil som dere deretter retter og gir egne detaljer."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Gratis og raskt; tegn kartet for hånd, fotografer det og vis det fram."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "La den mislykkede oppfinnelsen være noe absurd, som en dampdrevet paraplybane eller en tunnel for brevduer.",
+   "Tenk på hva som ville stått på et gammelt kart: «Her finnes fare», «inngang stengt» eller «målt av professor …».",
+   "Be AI-en være ekstra vrien: «Hva ville en skeptisk historiker fra 1900 ledd av her?»"
+  ],
+  "vis_fram": "Hold opp kartet eller vis bildet på skjermen, og si: «Det som overrasket oss, var at …» Fortell deretter kort hvilken kritikk fra AI dere brukte.",
+  "bonus": "Legg inn én detalj som moderne mennesker ville skjønt, men som kartmakeren fra 1900 tolker helt feil.",
+  "til_hjelperen": "Se etter at gruppa faktisk endrer noe etter kritikken, i stedet for å bruke AI-svaret som fasit. Spør: «Hvilken innvending valgte dere å svare på, og hvordan synes dere kartet ble bedre?»",
+  "tags": [
+   "kart",
+   "historisk stil",
+   "kritisk AI",
+   "oppfinnelse",
+   "Hamar & verden"
+  ],
+  "minutter": 15,
+  "kategori": "bilde",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "et kart over et sted som ikke finnes",
+   "tema": [
+    "en oppfinnelse som mislyktes",
+    "et sted som er borte"
+   ],
+   "vri": "det skal se ut som det er fra 1900"
+  }
+ },
+ {
+  "tittel": "Robotens første dag",
+  "teaser": "Kom inn, hør roboten holde sin livs første tale – og gjett hvem som egentlig hjalp til!",
+  "oppdrag": "Lag og spill inn en kort tale fra en robot som er redd for å være ny et sted i Hamar. Du skal først spørre en tekstassistent om hjelp til å forstå hvordan man kan holde en god tale, og så forklare dette med dine egne ord i talen. Ordet «AI» er forbudt i selve talen.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Velg hvor roboten er ny: på en skole, ved Mjøsa, i en butikk, på klubb eller et helt annet sted. Skriv tre ting roboten er redd for, og én ting den håper skal skje. Ikke bruk verktøy ennå."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Spør ChatGPT, Claude eller Gemini: «Hva gjør en kort tale god? Forklar det enkelt, med tre konkrete tips.» Les svaret. Skriv deretter tre tips med dine egne ord, uten å kopiere setningene."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Skriv en tale på 30–45 sekunder fra robotens synsvinkel. Bruk minst to av tipsene du forsto. Talen må ha en åpning, én rar eller morsom detalj, og en avslutning. Sjekk nøye at ordet «AI» ikke finnes i talen."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Les inn talen på mobilen, eller framfør den direkte. Spill den av eller framfør den for gruppa. De andre skal gjette hvilke deler som bygger på rådene fra tekstassistenten, og hvilke deler som bare er dine."
+   }
+  ],
+  "ai_grepet": "Du bruker AI til å forstå et håndverk, ikke til å skrive produktet for deg. Du må oversette rådene til dine egne ord og vise at du faktisk kan bruke dem.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT",
+    "hvorfor": "Enkel tekstsamtale som kan forklare taletips på nybegynnernivå."
+   },
+   {
+    "navn": "Claude",
+    "hvorfor": "Kan gi korte, tydelige forklaringer og hjelpe deg å sjekke om du har forstått tipsene."
+   },
+   {
+    "navn": "Google Gemini",
+    "hvorfor": "Et alternativ for å stille det samme spørsmålet og sammenligne forklaringen."
+   },
+   {
+    "navn": "Mobilens lydopptaker",
+    "hvorfor": "Gratis og uten konto for å spille inn og spille av talen."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start med: «Jeg er en redd robot som nettopp har kommet til ___.»",
+   "La roboten være redd for noe helt konkret, som en måke, en bratt trapp eller at noen ber den danse.",
+   "Be tekstassistenten forklare ett taletips med et eksempel, men skriv selve eksempelet på nytt selv."
+  ],
+  "vis_fram": "Spill av lydopptaket eller framfør talen. Si bare hvor roboten er ny, og la gruppa gjette hvilke deler som bygger på rådene fra tekstassistenten, og hvilke deler som er dine egne.",
+  "bonus": "Framfør talen én gang til med en helt annen robotstemme eller kroppsholdning, uten å endre ordene.",
+  "til_hjelperen": "Se etter om deltakeren selv kan forklare taletipsene, ikke bare har limt dem inn. Spør: «Hva gjorde du annerledes i talen fordi du forsto dette tipset?»",
+  "tags": [
+   "tale",
+   "stemme",
+   "forstå AI",
+   "robot",
+   "Hamar"
+  ],
+  "minutter": 15,
+  "kategori": "ord",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en tale",
+   "tema": [
+    "roboter som er redde",
+    "å være ny et sted"
+   ],
+   "vri": "ingen får bruke ordet «AI»"
+  }
+ },
+ {
+  "tittel": "Leksikon fra framtidsskolen",
+  "teaser": "Kom inn og møt skolens rareste fag, den mest hemmelige musikksmaken og et leksikonoppslag laget på rekordtid!",
+  "oppdrag": "Lag et kort leksikonoppslag om et oppdiktet fenomen fra skolen om 20 år, knyttet til musikk du ikke tør si at du liker. Lag først en versjon uten AI og deretter en versjon med AI. Sammenlikn hva som ble morsomst, tydeligst og mest deres eget.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Velg et rart framtidsfenomen, for eksempel «obligatorisk dansefriminutt» eller «hemmelig jazzmetal-time». Skriv et leksikonoppslag på 3–5 setninger som en 6-åring kan forstå. Ta med navn, hva det er, og hvorfor noen liker eller skjuler det."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Med AI: Gi AI den samme grunnideen og be om et nytt leksikonoppslag på 3–5 setninger, forståelig for en 6-åring. Be gjerne om én tydelig forklaring og én morsom detalj, men ikke lim inn hele deres første tekst."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Sammenlikn versjonene. Ring rundt én setning fra hver: den beste, den rareste eller den som høres mest ut som dere. Fiks AI-versjonen hvis den blir kjedelig, uklar eller for voksen."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Vis begge tekstene ved siden av hverandre. Les opp én setning fra første forsøk og én fra siste, og si på 30 sekunder hva AI gjorde bedre eller dårligere."
+   }
+  ],
+  "ai_grepet": "Lag først noe selv, få AI til å lage en parallell versjon av samme idé, og bruk sammenlikningen til å vurdere og forbedre resultatet. Poenget er ikke å kåre en vinner, men å oppdage hva dere vil beholde og hva dere må fikse.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Gir raskt en parallell tekst og tåler at dere ber om enklere, rarere eller tydeligere språk."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Gjør det enkelt å ha menneskeversjonen og AI-versjonen side ved side."
+   },
+   {
+    "navn": "Papir og penn",
+    "hvorfor": "Gratis og uten konto; skriv første versjon for hånd og les den opp sammen med AI-versjonen på mobilen."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Kan brukes til å sette de to oppslagene side ved side som en liten leksikonside."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Finn på navnet på et fag der elevene må høre på en pinlig favorittsang for å bestå.",
+   "Bruk denne starten: «Framtidsskolens ______ er en ting som …»",
+   "Be AI skrive som om det forklares til en seksåring, men med én detalj som får en tenåring til å fnise."
+  ],
+  "vis_fram": "Hold opp eller del skjermen med førsteversjonen og sisteversjonen ved siden av hverandre. Les én setning fra hver og pek på den ene endringen dere mener gjorde størst forskjell.",
+  "bonus": "Bytt ut én AI-setning med en helt ny setning laget av gruppa, og se om dere klarer å gjøre oppslaget både enklere og rarere.",
+  "til_hjelperen": "Se etter om gruppa faktisk lager en egen førsteversjon før de bruker AI, og om de tør å endre AI-teksten. Spør: «Hvilken setning ville dere aldri latt AI bestemme alene?»",
+  "tags": [
+   "leksikon",
+   "sammenlikning",
+   "framtidsskole",
+   "musikk",
+   "historiefortelling"
+  ],
+  "minutter": 15,
+  "kategori": "ord",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "et leksikonoppslag om noe oppdiktet",
+   "tema": [
+    "skolen om 20 år",
+    "musikk du ikke tør si at du liker"
+   ],
+   "vri": "det må kunne forstås av en 6-åring"
+  }
+ },
+ {
+  "tittel": "Frøet i 1899",
+  "teaser": "Kan du hjelpe et bittelite frø å overleve på et helt nytt sted – i svart-hvitt og med naturkrefter som motspiller?",
+  "oppdrag": "Lag en enkel svart-hvitt-simulering av et frø som kommer til et nytt sted i 1899. Frøet må påvirkes av minst to naturkrefter, for eksempel vind, regn, sol eller jord. Bruk AI til å forstå hvordan én slik naturkraft virker, og bygg deretter simuleringen selv.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Velg stedet frøet kommer til i 1899, for eksempel Hamar, en gård, en kai eller en skogkant. Tegn fire ruter på papir eller bestem fire enkle skjermer i Scratch: start, vind, landing og resultat. Velg to naturkrefter."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Spør én tekst-AI om å forklare hvordan naturkreftene dine påvirker et frø. Still minst to oppfølgingsspørsmål til du selv kan forklare det med én enkel regel, for eksempel: «Hvis det blåser hardt, flyttes frøet lenger.» Ikke be AI lage spillet eller koden."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Lag simuleringen i Scratch eller som fire tegnede ruter du filmer med mobilen. Gjør alt svart-hvitt. La spilleren trykke, klikke eller velge noe som endrer utfallet: vindstyrke, regn, jord eller landingssted."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Test én gang, gjør én regel tydeligere hvis simuleringen blir rar, og gjør deg klar til å vise den."
+   }
+  ],
+  "ai_grepet": "Bruk AI som lærer, ikke produsent: spør til du forstår en naturregel godt nok til å forklare den selv og bruke den i en egen simulering.",
+  "verktoy": [
+   {
+    "navn": "Scratch",
+    "hvorfor": "Gratis og laget for enkle interaktive simuleringer med figurer, knapper og variabler."
+   },
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan forklare naturkreftene med enkle ord og svare på oppfølgingsspørsmål. Bruk én av dem som lærer."
+   },
+   {
+    "navn": "Papir og mobilkamera",
+    "hvorfor": "Lag fire svart-hvite ruter, flytt frøet mellom dem etter reglene dine, og film simuleringen som en liten stop-motion."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Be AI forklare regelen som om du var åtte år, og be om ett konkret eksempel fra 1899.",
+   "Start med bare én kraft: «Hvis vinden er sterk, flyttes frøet én rute mot høyre.»",
+   "I Scratch kan hver rute være en figur eller bakgrunn, og et klikk kan flytte frøet til neste rute."
+  ],
+  "vis_fram": "Vis simuleringen uten å forklare først: velg en vind- eller regnverdi, trykk start, og la gruppa se om frøet overlever eller havner et nytt sted.",
+  "bonus": "La frøet få et navn fra 1899, og legg inn ett skjult svart-hvitt-resultat som bare skjer når spilleren gjør et spesielt valg.",
+  "til_hjelperen": "Se etter om deltakeren faktisk kan forklare naturregelen med egne ord, ikke om koden er avansert. Spør: «Hva måtte du forstå først for at simuleringen skulle virke?»",
+  "tags": [
+   "Scratch",
+   "simulering",
+   "natur",
+   "1899",
+   "svart-hvitt"
+  ],
+  "minutter": 15,
+  "kategori": "spill",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en simulering av noe i naturen",
+   "tema": [
+    "å være ny et sted",
+    "1899"
+   ],
+   "vri": "alt skal være svart-hvitt"
+  }
+ },
+ {
+  "tittel": "Svalene under vann",
+  "teaser": "Kom inn og se 1899-avisen ta feil – kan dere lage en natur-simulering som avslører den gamle myten?",
+  "oppdrag": "Lag en liten simulering av svaler som viser en påstand mange trodde var sann, men som er feil: at svaler forsvinner om vinteren fordi de sover under vann. Sett simuleringen til 1899, som om den skal avsløre en skråsikker avisartikkel fra Hamar.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Bestem hva spilleren skal se og gjøre. Tegn en rask skisse med svaler, Mjøsa og én tydelig feilaktig 1899-påstand. Velg også én ting som skal gjøre simuleringen morsom eller overraskende."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Bruk AI én eneste gang: Vis skissen eller beskriv idéen, og be AI om å lage en kort prompt som kan gjenskape en enkel, spillbar natur-simulering i et nettverktøy. Be om bare det dere trenger: fugler, vann, årstid og én handling for spilleren. Lim prompten inn i for eksempel Lovable, Bolt, Claude eller ChatGPT og lag første versjon."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Test og fiks uten mer AI. Fjern minst én unødvendig funksjon, og endre minst én ting selv i tekst, kode, farge eller bevegelse. Sørg for at det går an å forstå den gale 1899-påstanden bare ved å prøve."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "La en annen prøve simuleringen uten instruksjoner. Ikke forklar underveis. Se hva personen gjør først, og presenter deretter resultatet og hva dere valgte å kutte bort."
+   }
+  ],
+  "ai_grepet": "Reverse-engineer: Dere tar utgangspunkt i en kjent type natur-simulering og bruker AI én gang til å lage en prompt som gjenskaper den i en ny, lokal og historisk versjon. Etterpå må dere selv vurdere, kutte og fikse resultatet.",
+  "verktoy": [
+   {
+    "navn": "Lovable eller Bolt",
+    "hvorfor": "Kan lage en liten nettbasert simulering fra én samlet prompt."
+   },
+   {
+    "navn": "Claude eller ChatGPT",
+    "hvorfor": "Kan lage en enkel HTML-fil som dere kan lime inn i en nettbasert editor eller kjøre lokalt."
+   },
+   {
+    "navn": "Scratch",
+    "hvorfor": "Gratis og uten konto nødvendig for å lage fugler, vann og regler med blokker."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Lag simuleringen som et bevegelig brettspill eller en flipbook, og film en annen som prøver den."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Bruk tre fugler som flyr sørover når spilleren trykker på «vinter», mens en gammel avisstemme påstår at de går under vann.",
+   "Tenk på simuleringen som én regel, én knapp og én tydelig overraskelse – ikke et helt spill.",
+   "La den gale påstanden stå synlig i starten: «Svalene sover på bunnen av Mjøsa, ifølge Hamar 1899.»"
+  ],
+  "vis_fram": "La en annen prøve det dere laget uten instruksjoner i 20 sekunder. Si så én setning om hvilken 1899-påstand simuleringen avslører, og pek på funksjonen dere valgte å droppe.",
+  "bonus": "Bytt den gale påstanden til en annen naturmyte, men behold samme simulering og se om gruppa oppdager forskjellen.",
+  "til_hjelperen": "Se etter om ungdommene faktisk bruker AI bare én gang, og om de selv kutter eller endrer noe etterpå. Spør: «Hva i simuleringen viser at påstanden er feil, uten at dere forklarer det med ord?»",
+  "tags": [
+   "spill og kode",
+   "natur-simulering",
+   "Hamar 1899",
+   "reverse-engineering",
+   "myter"
+  ],
+  "minutter": 15,
+  "kategori": "spill",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en simulering av noe i naturen",
+   "tema": [
+    "noe alle tror er sant men som er feil",
+    "1899"
+   ],
+   "vri": "AI får bare hjelpe til én gang"
+  }
+ },
+ {
+  "tittel": "Rop for framtida",
+  "teaser": "Kom og lag den rareste framtidsreklamen for Innlandet – med et dyr, et publikum og minst én skikkelig dårlig idé!",
+  "oppdrag": "Lag en kort reklame for Løten, Stange eller Ringsaker, satt i framtidas Hamar, med et dyr som lever i Innlandet. Reklamen skal få publikum til å delta, for eksempel ved å rope et svar, velge mellom to ting eller gjøre en enkel bevegelse.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Velg Løten, Stange eller Ringsaker, og velg ett Innlandet-dyr. Skriv en med vilje dårlig reklame på 3–5 setninger. Den kan være overdrevet, kjedelig, forvirrende eller full av klisjeer. Avslutt med en tydelig ting publikum skal gjøre."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Lim reklamen inn i ChatGPT, Claude eller Gemini og spør: «Forklar hvorfor denne reklamen er dårlig. Pek på tre konkrete problemer, men ikke skriv den om.» Les svaret og velg selv hva du vil beholde og forkaste."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Skriv reklamen på nytt uten å la AI skrive den for deg. Gjør den kort, tydelig og rar på en god måte. Sørg for at framtidas Hamar, stedet, dyret og publikumsdeltakelsen er med."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Framfør reklamen for gruppa. La publikum delta slik du ba om, og fortell én ting som overrasket deg da du gikk fra dårlig til bedre versjon."
+   }
+  ],
+  "ai_grepet": "Lag noe dårlig med vilje, og bruk AI som kritiker i stedet for tekstforfatter. Du bestemmer selv hvilke råd som faktisk gjør reklamen bedre.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Gir en enkel forklaring på hvorfor førsteutkastet ikke fungerer, uten at AI trenger å skrive sluttversjonen."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å skrive førsteutkast, AI-tilbakemelding og egen forbedring."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Du kan skrive reklamen for hånd og lese den opp, mens du bruker en tekst-AI muntlig eller på mobilen til kritikken."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg Ringsaker og en elg: Hva tilbyr framtidas Hamar som gjør at elgen vil flytte dit?",
+   "Gjør publikumsdelen enkel: «Hvis dere ville besøkt dette stedet, si Mjøsa!»",
+   "Be AI bare forklare hva som er uklart, kjedelig eller for langt – ikke be om en ny reklame."
+  ],
+  "vis_fram": "Les eller framfør den forbedrede reklamen på maks 20 sekunder, få publikum til å delta, og si deretter én ting som overrasket deg.",
+  "bonus": "Framfør først den dårlige versjonen i fem sekunder, og så den forbedrede. La gruppa gjette hva AI mente var problemet.",
+  "til_hjelperen": "Se etter at deltakeren faktisk skriver om teksten selv, og at reklamen inneholder sted, framtids-Hamar, dyr og en publikumsaktivitet. Spør: «Hvilket råd fra AI valgte du å ikke følge – og hvorfor?»",
+  "tags": [
+   "reklame",
+   "Hamar",
+   "kritisk AI-bruk",
+   "publikum",
+   "Innlandet"
+  ],
+  "minutter": 15,
+  "kategori": "hamar",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en reklame for Løten, Stange eller Ringsaker",
+   "tema": [
+    "framtidas Hamar",
+    "et dyr som lever i Innlandet"
+   ],
+   "vri": "publikum må delta"
+  }
+ },
+ {
+  "tittel": "Mjøsas Tre Ansikter",
+  "teaser": "Kom inn, kom inn – her får dere høre tre legender om Mjøsa, men bare én tør å møte vinteren!",
+  "oppdrag": "Lag en kort, oppdiktet legende om Mjøsa der noen er redde for å mislykkes om vinteren. Be AI skrive den samme grunnideen i tre helt ulike stiler, velg stilen som føles mest som dere, og framfør den slik at publikum må ta ett valg.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Finn på hovedpersonen, hva som kan gå galt i vinter-Mjøsa, og ett publikumvalg. Skriv en grunnidé på maks tre setninger."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Be AI lage tre korte versjoner av samme legende i tre tydelig ulike stiler, for eksempel mørkt hørespill, overdrevet lokalavis og gammel sjømannsmyte. Be om maks 80 ord per versjon."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Les alle tre. Velg den som føles mest som dere, og gjør den skarpere: bytt ut minst tre AI-formuleringer med egne ord, en lokal detalj og en rar, minneverdig replikk."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Øv på en framføring på maks 20 sekunder. Bestem når publikum skal delta, for eksempel ved å rope «gå!» eller velge mellom to mulige slutter."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Vis fram uten å forklare: framfør legenden, stopp ved valget, og la publikum bestemme hva som skjer."
+   }
+  ],
+  "ai_grepet": "Be AI lage tre helt ulike stiler av den samme ideen, og velg deretter den versjonen som passer gruppas egen smak best. Dere bruker AI som stilprøve, ikke som fasit.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan lage tre stilversjoner raskt og la dere be om korte tekster. Gratisversjoner fungerer."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å lime inn grunnideen, sammenligne versjonene og skrive om med egne ord."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Fungerer helt uten konto til idé, redigering og framføring."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start med: «En vinterkveld ved Mjøsa hørte Nora isen hviske navnet hennes …»",
+   "La den første stilen være skummel, den andre komisk og den tredje høytidelig.",
+   "Publikum kan velge: Skal hovedpersonen gå ut på isen, eller innrømme at hun er redd?"
+  ],
+  "vis_fram": "Framfør den valgte legenden som en mini-scene. Stopp før slutten, pek på to sider av rommet og la publikum stemme med applaus på hva hovedpersonen skal gjøre – improviser siste replikk ut fra valget.",
+  "bonus": "La publikum gi dere ett ord som må inn i siste replikk, for eksempel «skøyte», «vaffel» eller «meteoritt».",
+  "til_hjelperen": "Se etter at gruppa faktisk sammenligner stilene og gjør teksten til sin egen, ikke bare leser opp AI-svaret. Spør: «Hvilken setning ville dere aldri sagt selv – og hvordan kan dere skrive den om?»",
+  "tags": [
+   "Hamar",
+   "Mjøsa",
+   "fortelling",
+   "publikum",
+   "stil"
+  ],
+  "minutter": 15,
+  "kategori": "hamar",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en oppdiktet legende om Mjøsa",
+   "tema": [
+    "frykt for å mislykkes",
+    "vinter"
+   ],
+   "vri": "publikum må delta"
+  }
+ },
+ {
+  "tittel": "Frysbildet lyver",
+  "teaser": "Kom inn, kom inn – se en helt ordløs vintermisforståelse som får publikum til å gjette feil!",
+  "oppdrag": "Lag en stumfilm framført live, nøyaktig ett minutt lang. Den skal handle om vinter og en misforståelse, men du får ikke bruke ord eller lyder. Etterpå skal en annen person prøve å forklare hva de trodde skjedde – uten at du gir instruksjoner først.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Finn på en enkel misforståelse som kan skje om vinteren. Velg tre tydelige øyeblikk: start, misforståelsen og avsløringen. Skriv bare ett stikkord for hvert øyeblikk."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Spør én tekst-AI: «Hvordan kan en stumfilm vise en misforståelse uten ord? Forklar det enkelt med tre konkrete teknikker og ett lite eksempel. Jeg skal lage en liveframføring på ett minutt.» Les svaret, og velg én teknikk du faktisk forstår og vil bruke."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Lag framføringen. Bruk kroppen, ansiktet og eventuelt én enkel gjenstand. Øv med tidtaking: Den må vare nøyaktig 60 sekunder. Kutt eller strekk bevegelser til tiden stemmer."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Framfør stumfilmen for én annen person uten å forklare på forhånd. Be personen straks fortelle hva de trodde skjedde. Ikke hjelp underveis."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Gjør én rask forbedring basert på misforståelsen i publikums forklaring. Framfør enten de viktigste femten sekundene på nytt eller fortell gruppa hva du endret."
+   }
+  ],
+  "ai_grepet": "Du bruker AI som en forklarer, ikke som manusforfatter. Du spør til du forstår ett filmgrep godt nok til å bruke det selv, og tester deretter om publikum faktisk oppfatter det slik du mente.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT",
+    "hvorfor": "Enkel å spørre med vanlig språk og egnet til korte forklaringer."
+   },
+   {
+    "navn": "Claude",
+    "hvorfor": "Kan gi konkrete eksempler uten at du trenger å kunne filmfaglige ord."
+   },
+   {
+    "navn": "Google Gemini",
+    "hvorfor": "Et alternativ for samme type korte forklaring."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Du kan planlegge scenene og ta tiden med mobilens stoppeklokke, mens AI-grepet kan gjøres på en delt klubbmaskin."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Misforståelsen kan være at du tror en snøball er en mobil, at noen tror du fryser når du egentlig gjemmer en gave, eller at du tolker et skjerf som et faresignal.",
+   "Vis først hva du tror skjer, så hva den andre personen egentlig mente. Store, langsomme bevegelser er lettere å forstå enn mange små.",
+   "Hvis filmen blir for lang, fjern detaljer – behold bare start, feil tolkning og avsløring."
+  ],
+  "vis_fram": "Vis den 60 sekunder lange stumfilmen. Pek deretter på personen som så den, og la dem fortelle sin tolkning uten at du forklarer først. Si til slutt én setning om hva du endret etter testen.",
+  "bonus": "Lag en ny versjon der du med vilje gjør misforståelsen enda større, men bruker nøyaktig samme tre øyeblikk.",
+  "til_hjelperen": "Se etter om deltakeren bruker ett tydelig grep fra AI-forklaringen, og om de selv velger hva som passer. Spør: «Hva trodde testpersonen skjedde – og hvilken bevegelse gjorde at de trodde det?»",
+  "tags": [
+   "stumfilm",
+   "misforståelse",
+   "vinter",
+   "kroppsspråk",
+   "liveframføring"
+  ],
+  "minutter": 15,
+  "kategori": "kropp",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en stumfilm framført live",
+   "tema": [
+    "en misforståelse",
+    "vinter"
+   ],
+   "vri": "det skal vare nøyaktig ett minutt"
+  }
+ },
+ {
+  "tittel": "Vinterens pinlige hit",
+  "teaser": "Kom inn, kom inn – se en ekte menneske-AI krangle om vinter, guilty pleasure og en tvist ingen så komme!",
+  "oppdrag": "Lag en teaterscene på maks 30 sekunder der én person spiller AI, og resten spiller mennesker som prøver å skjule en musikk de egentlig liker. Bruk vinter som viktig rekvisitt eller situasjon, og la scenen slutte med en tydelig tvist. Publikum skal etterpå gjette hva som kom fra AI, og hva dere fant på selv.",
+  "steg": [
+   {
+    "tid": "3 min",
+    "tekst": "Uten AI: Velg en pinlig musikkfavoritt, en vinterting dere har tilgjengelig, hvem som spiller AI, og hva tvisten skal være. Eksempel på tvist: AI-en avslører at den selv har en enda kleinere favoritt."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Be en tekst-AI lage ti korte ideer til scenen med musikkfavoritten og vinteren. Kast alle ti uten å bruke dem direkte. Be deretter om ti nye ideer som er det motsatte av de første – rare, uventede eller helt feil i stemning."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Velg én liten idé fra den andre listen som råstoff. Skriv tre–fem replikker og bestem hvordan AI-rollen skal bevege seg eller snakke. Øv én gang, og kutt alt som ikke trengs."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Spill scenen for gruppa. Ikke forklar først. Etterpå lar dere de andre gjette hvilke replikker, bevegelser eller vendinger som kom fra AI, og hvilke dere selv laget."
+   }
+  ],
+  "ai_grepet": "Be AI lage ti ideer, kast alle, og be om ti som er det motsatte. Da bruker dere AI til å presse fram uventet råstoff, men velger selv hva som faktisk får plass på scenen.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Gir raskt ti forslag og ti motsatte forslag. Gratisversjoner kan brukes, og dere kan kopiere svaret uten å lage en ferdig tekst."
+   },
+   {
+    "navn": "Google Gemini",
+    "hvorfor": "Et tilgjengelig alternativ for idémyldring i nettleseren."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Perfekt for å skrive de valgte replikkene, markere tvisten og planlegge AI-rollens kroppsspråk."
+   },
+   {
+    "navn": "Mobilkamera",
+    "hvorfor": "Kan brukes til å ta opp scenen hvis dere vil vise den én gang til eller studere timingen."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Gjør AI-en altfor høytidelig om en helt vanlig vinterjakke, mens menneskene prøver å skjule at de elsker en ekstremt klein låt.",
+   "La musikken aldri nevnes direkte. Publikum må skjønne favoritten gjennom bevegelser, lyder eller én merkelig replikk.",
+   "Tvisten kan være at den som hevder å hate låten, egentlig har skrevet den."
+  ],
+  "vis_fram": "Spill scenen uten forklaring på maks 30 sekunder. Si deretter: «Hva tror dere var AI, og hva var oss?» Ta to raske gjetninger fra publikum.",
+  "bonus": "Spill scenen én gang til, men bytt hvem som er AI. Se om tvisten fortsatt fungerer.",
+  "til_hjelperen": "Se etter om gruppa faktisk kaster de første ti ideene, i stedet for å plukke favoritten med én gang. Spør: «Hva gjorde dere selv for å gjøre den andre ideen til deres egen?»",
+  "tags": [
+   "scene",
+   "AI som rolle",
+   "vinter",
+   "guilty pleasure",
+   "tvist"
+  ],
+  "minutter": 15,
+  "kategori": "kropp",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en teaterscene der AI er en av rollene",
+   "tema": [
+    "musikk du ikke tør si at du liker",
+    "vinter"
+   ],
+   "vri": "det må ha en tvist på slutten"
+  }
+ },
+ {
+  "tittel": "Mjøsas Hemmelige Lyd",
+  "teaser": "Kom inn og gjør ett helt vanlig bilde om til en lydmaskin – men pass på, publikum får makten!",
+  "oppdrag": "Lag en kort lydcollage om Mjøsa og vennskap med utgangspunkt i ett bilde du tar i rommet. Collagen skal inneholde minst tre ulike lyder, og en annen person skal kunne påvirke eller fullføre den uten å få forklaring først.",
+  "steg": [
+   {
+    "tid": "4 min",
+    "tekst": "Se deg rundt og ta ett bilde av noe i rommet som kan kobles til Mjøsa eller vennskap. Velg selv hva bildet betyr: en stol kan bli en brygge, en ledning kan bli en bølge, eller en kaffekopp kan bli en robåt."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Skriv ned tre lyder bildet får deg til å tenke på. Lag lydene med stemmen, kroppen, ting i rommet eller et mobilopptak. Ta opp hver lyd som en kort snutt."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Bruk bildet som utgangspunkt for en AI-samtale. Be AI foreslå en lydcollage på 20–30 sekunder der bildet, Mjøsa og vennskap henger sammen. Be om konkrete forslag til rekkefølge, rytme og en enkel publikumsrolle – ikke et ferdig verk."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Lag og sett sammen collagen etter planen, for eksempel i en lydapp eller ved å spille av snuttene etter hverandre. Du kan følge AI-forslaget, men må selv endre minst én ting fordi den passer bedre til bildet eller ideen din."
+   },
+   {
+    "tid": "6 min",
+    "tekst": "Spill collagen for én annen person uten instruksjoner. La personen selv finne ut når eller hvordan hen skal delta. Vis deretter bildet og si på én setning hva du valgte å beholde eller endre."
+   }
+  ],
+  "ai_grepet": "Bruk ett bilde som felles råstoff for hele AI-samtalen: Be AI tolke bildet som stemning, lyder, rytme og publikumsdeltakelse. Du vurderer forslagene og gjør dem om til ditt eget lydverk.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini + mobilopptaker",
+    "hvorfor": "Enkelt for nybegynnere: last opp bildet eller beskriv det, og få forslag til lydplan før du tar opp og setter sammen lydene selv."
+   },
+   {
+    "navn": "BandLab",
+    "hvorfor": "Gratis musikkverktøy som kan brukes til å spille inn og legge lydsnutter etter hverandre."
+   },
+   {
+    "navn": "CapCut",
+    "hvorfor": "Kan sette sammen lydopptak og bildet i en kort video, hvis det er lettere å vise verket slik."
+   },
+   {
+    "navn": "Penn, papir og mobilens opptaker",
+    "hvorfor": "Du trenger ikke en egen app: tegn rekkefølgen som en enkel lydscore og spill inn lydene med mobilen."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg et bilde av en sko, en stol eller en vannflaske. Tenk: Hvilken lyd lager denne hvis den befinner seg ved Mjøsa?",
+   "Be AI lage en plan med bare tre lyder: én for Mjøsa, én for vennskap og én for overraskelsen.",
+   "La publikum velge mellom to lyder ved å klappe, peke eller lage en lyd selv. Du trenger ikke forklare valget på forhånd."
+  ],
+  "vis_fram": "Spill collagen og la en annen person prøve å delta uten instruksjoner. Etterpå viser du bildet som startet alt og sier: «Dette bildet ble til …»",
+  "bonus": "Lag en ny versjon der publikums lyd blir starten på collagen, og sammenlign de to versjonene på ti sekunder.",
+  "til_hjelperen": "Se etter om deltakeren faktisk bruker bildet som råstoff, i stedet for å la AI bestemme hele verket. Spør: «Hva i bildet gjorde at du valgte akkurat denne lyden?»",
+  "tags": [
+   "lydcollage",
+   "Mjøsa",
+   "vennskap",
+   "publikumsdeltakelse",
+   "lydopptak"
+  ],
+  "minutter": 30,
+  "kategori": "lyd",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en lydcollage av byen",
+   "tema": [
+    "Mjøsa",
+    "vennskap"
+   ],
+   "vri": "publikum må delta"
+  }
+ },
+ {
+  "tittel": "Mørket har myntlyd",
+  "teaser": "Kom inn, kom inn – lag verdens rareste lydspor til en stumfilm, uten ett eneste voksent ord!",
+  "oppdrag": "Lag et kort lydspor til en tenkt stumfilm om lys, mørke og penger. Dere kan bruke lyder, rytmer, nynning, rare stavelser og stillhet, men ingen vanlige ord som voksne bruker. Be AI foreslå tre helt ulike musikalske stiler, velg én som føles mest som deres, og lag en versjon på 20–40 sekunder.",
+  "steg": [
+   {
+    "tid": "4 min",
+    "tekst": "Uten AI: Finn på filmens handling i tre bilder: Hva ser vi i lyset, hva skjer i mørket, og hva har pengene med saken å gjøre? Velg også tre lyder dere vil høre, for eksempel klink, hvisking eller sko mot gulv."
+   },
+   {
+    "tid": "6 min",
+    "tekst": "Be en tekst-AI eller musikk-AI foreslå tre tydelig forskjellige stiler til lydsporet, basert på de tre bildene. Be om stil, tempo, instrumenter og lyder – men ingen vanlige ord eller sangtekst. Les eller lytt til forslagene, og velg den stilen som er mest dere."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Lag lydsporet. Bruk for eksempel stemmen, bordet, mynter, kroppen, et instrument eller en musikkgenerator. Hvis AI lager noe, klipp bort det som ikke passer, og legg inn minst tre egne lyder eller opptak. Hold dere til den valgte stilen, men gjør én rar endring som bare dere kunne funnet på."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Spill lydsporet for én annen person uten å forklare noe først. Be personen beskrive hva som skjer i filmen, og hva som føles lyst, mørkt eller pengeaktig. Juster én ting basert på det personen hørte."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Gjør klart en 30-sekunders visning: Spill av lydsporet og si etterpå hva lytteren skulle ha oppdaget."
+   }
+  ],
+  "ai_grepet": "Bruk AI som stilgenerator: Be om tre løsninger som går i helt ulike retninger, og velg én med vilje i stedet for å ta første forslag. Dere trener på å sammenligne AI-forslag og gjøre valget til deres eget.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan lage tre ulike stilskisser med tempo, lyder og instrumenter. Gratis alternativer finnes, og dere kan bruke forslagene som oppskrift."
+   },
+   {
+    "navn": "Suno eller Udio",
+    "hvorfor": "Kan lage korte musikalske utkast i tre forskjellige stiler. Velg, klipp og bygg videre med egne lyder."
+   },
+   {
+    "navn": "BandLab eller GarageBand",
+    "hvorfor": "Gjør det enkelt å spille inn stemmer, bordrytmer og mynter og sette dem sammen."
+   },
+   {
+    "navn": "Mobilens lydopptaker og en gratis lydklipper",
+    "hvorfor": "Dere trenger ikke konto eller avansert utstyr; ta opp lyder og sett dem etter hverandre."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Tenk på tre filmer: en som sniker seg, en som eksploderer, og en som føles som en drøm. Hvilken stil passer hver film?",
+   "Bruk bare lydene «tss», «mmm», «klikk», «pling» og stillhet – det blir fort mer musikk enn dere tror.",
+   "La penger være en rytme i stedet for et tema: én mynt, mange mynter, en mynt som aldri treffer bordet."
+  ],
+  "vis_fram": "Spill lydsporet for en ny person uten forklaring. La personen gjette filmen først; fortell deretter deres egen handling og hva dere endret etter testen.",
+  "bonus": "Lag en ny, helt motsatt versjon på 20 sekunder: Hvis den første er mørk og tung, gjør den lys og komisk – uten å endre filmens tre bilder.",
+  "til_hjelperen": "Se etter at gruppa faktisk sammenligner tre ulike AI-stiler og gjør egne opptak eller valg, ikke bare spiller av første resultat. Spør: «Hvilken detalj gjør at dette høres ut som dere, og ikke som et tilfeldig AI-forslag?»",
+  "tags": [
+   "lydspor",
+   "stumfilm",
+   "lys og mørke",
+   "penger",
+   "AI-stiler"
+  ],
+  "minutter": 30,
+  "kategori": "lyd",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "et lydspor til en stumfilm",
+   "tema": [
+    "lys og mørke",
+    "penger"
+   ],
+   "vri": "helt uten voksne ord"
+  }
+ },
+ {
+  "tittel": "Traileren som rimer",
+  "teaser": "Kom inn, kom inn – se filmen som aldri blir til, men kanskje vinner på rim og vennskapets spill!",
+  "oppdrag": "Lag en 30 sekunders filmtrailer for en film som aldri blir laget. Traileren skal handle om frykt for å mislykkes og vennskap, og alle ordene som sies eller vises må rime. Du bestemmer selv om traileren blir filmet, framført foran kamera eller laget av stillbilder med lyd.",
+  "steg": [
+   {
+    "tid": "4 min",
+    "tekst": "Uten AI: Skriv ned tre ting: hvem hovedpersonen er, hva personen prøver å få til, og hvem vennen er. Velg også én rar ting som finnes i filmen, for eksempel en gråtende sokk, en sint måke eller en portal i Mjøsa."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Be tekst-AI-en stille deg ett spørsmål om gangen for å finne ut hva traileren egentlig skal handle om. Si at temaene er frykt for å mislykkes og vennskap, at alt må rime, og at den skal bli en 30 sekunders trailer. Svar på spørsmålene med dine egne valg. Be AI-en til slutt oppsummere ideen i tre setninger."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Lag traileren med mobilkamera, stillbilder eller en enkel plakatserie. Bruk høyst fem korte replikker eller tekstskilt, og sørg for at hver replikk rimer. Ta opp stemmen din, eller bruk bare tekst og dramatisk musikk eller lyder."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Se eller les gjennom traileren én gang. Bytt ut minst én linje som høres kjedelig, uklar eller nesten-rimende ut. Sjekk at vennskapet og frykten for å mislykkes faktisk synes."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Gjør klar avspillingen eller framføringen. Øv på starten og slutten, slik at du kan vise hele traileren uten forklaring."
+   }
+  ],
+  "ai_grepet": "Du bruker AI som en intervjuer, ikke som en ferdig-idémaskin. Ved å svare på spørsmål ett av gangen oppdager du hva du selv vil lage, og kan deretter beholde, endre eller kaste AI-ens forslag.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan stille deg spørsmål ett av gangen og hjelpe deg å stramme inn ideen og rimene."
+   },
+   {
+    "navn": "Mobilkamera og mobilens notater",
+    "hvorfor": "Gratis og enkelt for å filme, ta opp stemme eller lage traileren som en serie tekstskilt."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Kan lage en trailer av stillbilder, tekst og lyd uten at du må filme deg selv."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Tegn fem dramatiske bilder, skriv rimende tekst på dem, og film arkene som en trailer. Ingen konto trengs."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start med denne setningen: «Når alt går galt, står en venn…» og finn et rim på «venn».",
+   "La hovedpersonen mislykkes med noe helt vanlig, men gjør det filmatisk: å rekke bussen kan bli «å redde hele byen».",
+   "Be AI-en bare foreslå rimord eller spørsmål – ikke hele traileren."
+  ],
+  "vis_fram": "Spill av eller framfør de 30 sekundene rett fram, uten å forklare først. Avslutt med filmens tittel på skjermen eller med en dramatisk stemme: «Kommer neste høst – kanskje.»",
+  "bonus": "Lag to alternative slutter: én der hovedpersonen tør å prøve, og én der vennen prøver i stedet. Begge må rime.",
+  "til_hjelperen": "Se etter om ungdommen selv har valgt hovedperson, konflikt og stil, og om AI-en bare har fungert som intervjuer. Spør: «Hvilken del ville du aldri latt AI bestemme for deg?»",
+  "tags": [
+   "filmtrailer",
+   "rim",
+   "vennskap",
+   "frykt for å mislykkes",
+   "Hamar"
+  ],
+  "minutter": 30,
+  "kategori": "bilde",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en filmtrailer for en film som aldri blir laget",
+   "tema": [
+    "frykt for å mislykkes",
+    "vennskap"
+   ],
+   "vri": "alt må rime"
+  }
+ },
+ {
+  "tittel": "Altfor Stor Trailer",
+  "teaser": "Se den dramatiske traileren til oppfinnelsen som skulle redde ungdomstida – men som gikk helt bananas!",
+  "oppdrag": "Lag en 30 sekunders filmtrailer for en film som aldri blir laget. Filmen skal handle om en mislykket oppfinnelse som på en eller annen måte viser det beste med å være 15. Gjør den litt for dramatisk, og bruk AI til å lage tre helt ulike visuelle stiler før dere velger den som føles mest som deres.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Finn på oppfinnelsen, hva som gikk galt, og hva som egentlig er det beste med å være 15. Skriv ned tre dramatiske trailerøyeblikk, for eksempel en avsløring, en katastrofe og en siste replikk."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Be en tekst-AI foreslå tre helt ulike stiler for traileren, for eksempel mørk sci-fi, overdreven reality-TV eller poetisk katastrofefilm. Be også om ett kort bilde- eller filmforslag til hver stil. Velg én stil – eller bland to hvis dere tør."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Lag traileren med mobilkamera, AI-bilder eller AI-video. Dere trenger ikke lage en hel film: tre korte klipp, stillbilder med bevegelse, tekstplakater, lydeffekter og én dramatisk voiceover holder. Spill inn det dere mangler selv."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Klipp sammen materialet. Legg inn en tittel, én overdrevet replikk og en sluttekst som «Kommer aldri på kino». Fjern alt som gjør traileren mindre tydelig eller mindre morsom."
+   },
+   {
+    "tid": "2 min",
+    "tekst": "Gjør klar visningen: Spill av de beste 30 sekundene uten forklaring først."
+   }
+  ],
+  "ai_grepet": "Be AI lage tre helt ulike stiler for samme idé, og velg den stilen som kjennes mest som deres. Poenget er å sammenligne retninger før dere lager masse materiale – ikke å godta første forslag.",
+  "verktoy": [
+   {
+    "navn": "Mobilkamera + CapCut",
+    "hvorfor": "Gratis og raskt: film tre små scener, bruk tekstplakater, klipp hardt og legg på egen stemme eller lyder."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Passer for en trailer laget av stillbilder, store titler og enkel animasjon. Gratisversjonen holder til mye."
+   },
+   {
+    "navn": "ChatGPT, Claude eller Gemini + mobilkamera",
+    "hvorfor": "Bruk tekst-AI til de tre stilforslagene og manusbitene, og film resten selv."
+   },
+   {
+    "navn": "Pika, Runway eller et annet AI-filmverktøy",
+    "hvorfor": "Kan lage korte, overdrevne klipp fra bilder eller tekst. Kombiner med egne opptak så resultatet ikke ser ut som en reklame fra robotplaneten."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Gjør oppfinnelsen veldig konkret: en sekk som pakker sekken selv, en app som stopper foreldre fra å sende «husk»-meldinger, eller en maskin som gjør lekser – men bare feil fag.",
+   "Bruk denne rekkefølgen: «I en verden der …» → katastrofen → «Én person må …» → den altfor dramatiske tittelen.",
+   "Hvis dere mangler bilder, film nærbilder av hender, sko, en knapp, en dør eller Mjøsa. Trailerhjerner fyller inn resten."
+  ],
+  "vis_fram": "Spill av traileren i opptil 30 sekunder uten å si hva den handler om først. La gruppa gjette oppfinnelsen og hvilken stil dere valgte.",
+  "bonus": "Lag en alternativ sluttekst som gjør hele traileren enda mer dramatisk, og bytt den inn rett før visning.",
+  "til_hjelperen": "Se etter om gruppa faktisk sammenligner tre ulike stiler før de velger, og om de har gjort egne valg i opptak, tekst eller klipp. Spør: «Hva fjernet dere fordi traileren ble bedre uten det?»",
+  "tags": [
+   "filmtrailer",
+   "AI-stiler",
+   "overdrivelse",
+   "ungdomsliv",
+   "Hamar"
+  ],
+  "minutter": 30,
+  "kategori": "bilde",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en filmtrailer for en film som aldri blir laget",
+   "tema": [
+    "en oppfinnelse som mislyktes",
+    "det beste med å være 15"
+   ],
+   "vri": "det skal være litt for dramatisk"
+  }
+ },
+ {
+  "tittel": "Klage fra fortiden",
+  "teaser": "Kom inn, kom inn – hør den gamle stolen, klokka eller brødristeren klage over et liv så kjedelig at selv støvet gjesper!",
+  "oppdrag": "Skriv et klagebrev fra en gjenstand som kjeder seg, og som protesterer mot noe alle tror er sant – men som faktisk er feil. Brevet skal se ut som om det er skrevet i år 1900. Til slutt skal du bruke AI som en kritisk redaktør fra 1900, og velge én forbedring du selv gjør.",
+  "steg": [
+   {
+    "tid": "4 min",
+    "tekst": "Uten AI: Se deg rundt og velg en gjenstand. Skriv ned tre ting den opplever hver dag, én ting den kjeder seg over, og en «sannhet» folk tror på som gjenstanden mener er feil. Eksempel: En klokke hevder at tiden ikke går likt for alle."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Skriv førsteutkastet for hånd eller i Notater. Lag et klagebrev med dato, høflig åpning, minst to klager og en avslutning. Bruk noen trekk fra rundt 1900, som «Ærede redaksjon», «Deres hengivne» eller litt gammeldags språk."
+   },
+   {
+    "tid": "6 min",
+    "tekst": "Bruk ett tekstverktøy, for eksempel ChatGPT, Claude eller Gemini. Lim inn brevet og skriv: «Du er en kritisk redaktør fra år 1900. Finn én setning som høres for moderne ut, én klage som kan bli morsommere, og én detalj som gjør gjenstanden mer troverdig. Ikke skriv brevet på nytt.»"
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Velg selv hva du vil bruke fra redaktøren. Gjør minst én tydelig endring i brevet. Legg gjerne til en merkelig signatur, et stempel eller en liten illustrasjon."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Les brevet høyt eller vis det fram. Fortell én ting som overrasket deg – enten i brevet, i gjenstandens syn på verden eller i AI-redaktørens forslag."
+   }
+  ],
+  "ai_grepet": "Du gir AI en tydelig rolle og ber den vurdere noe du allerede har laget, i stedet for å be den lage hele teksten. Du bestemmer selv hvilke råd som er gode nok til å bruke.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Gir en enkel redaktørvurdering og fungerer fint med et kort tekstutkast."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å skrive, redigere og vise brevet uten ekstra utstyr."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Passer perfekt til et brev fra 1900 og fungerer uten konto eller innlogging."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg en gjenstand i rommet og la den klage på at mennesker bruker den feil.",
+   "Skriv en sannhet som: «Man blir ikke våt av regn hvis man står under et tre» eller «En klokke vet alltid hva tiden er.» La gjenstanden avsløre hvorfor det er feil.",
+   "Tenk: Hva ville gjenstanden skrevet hvis den var høflig, fornærmet og litt dramatisk på samme tid?"
+  ],
+  "vis_fram": "Vis brevet eller les den morsomste delen høyt. Si deretter én ting som overrasket deg, for eksempel: «Jeg trodde en lampe bare skulle klage på mørket, men min mente at folk tar feil om hva som lyser opp et rom.»",
+  "bonus": "Lag et kort svarbrev fra redaktøren, eller skriv samme klage i moderne meldingsspråk og sammenlign de to versjonene.",
+  "til_hjelperen": "Se etter at ungdommen selv har valgt gjenstand, feil «sannhet» og hvilke AI-råd som skal brukes. Spør: «Hvilket råd fra redaktøren gjorde teksten bedre – og hvilket råd lot du være å bruke?»",
+  "tags": [
+   "ord",
+   "klagebrev",
+   "1900",
+   "AI-redaktør",
+   "humor"
+  ],
+  "minutter": 30,
+  "kategori": "ord",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en klagebrev fra en gjenstand",
+   "tema": [
+    "å kjede seg",
+    "noe alle tror er sant men som er feil"
+   ],
+   "vri": "det skal se ut som det er fra 1900"
+  }
+ },
+ {
+  "tittel": "Hundre ord fra framtida",
+  "teaser": "Kom inn, kom inn – her får du høre hvordan skolen og livet som 15-åring kan bli når framtida har fått litt for mye fantasi!",
+  "oppdrag": "Lag en fortelling på nøyaktig 100 ord om skolen om 20 år eller det beste med å være 15. Historien må kunne forstås av en 6-åring. Før AI får skrive, skal dere la AI intervjue dere og bruke svarene deres som råstoff.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Velg tema, og skriv ned fem egne svar på spørsmål som: Hva er det beste med å være 15? Hva er rart eller fint med skolen? Hvilken ting fra framtida skulle du ønske fantes? Velg også én hovedperson og én rar detalj."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Be en tekst-AI intervjue gruppa først. Skriv for eksempel: «Intervju oss med ett spørsmål om gangen for å finne råstoff til en fortelling på 100 ord. Ikke skriv historien ennå. Still maks seks spørsmål.» Svar med deres egne ideer og erfaringer."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Be AI lage et førsteutkast på nøyaktig 100 ord, basert på intervjuet og notatene deres. Krev enkelt språk som en 6-åring kan forstå, men la én ting være overraskende eller morsom."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Rediger sammen. Tell ordene, og gjør historien tydeligere, rarere eller morsommere. Fjern ord dere ikke liker, legg til deres egne formuleringer, og pass på at sluttversjonen har nøyaktig 100 ord."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Lag en rask visning: ha første forsøk og siste versjon ved siden av hverandre. Finn én tydelig endring dere gjorde selv, og gjør dere klare til å lese den siste versjonen høyt."
+   }
+  ],
+  "ai_grepet": "AI brukes først som intervjuer, ikke som forfatter. Svarene deres blir råstoffet, og dere bestemmer hvilke ideer, formuleringer og endringer som får bli med i historien.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan intervjue dere trinnvis, lage et utkast og hjelpe med ordtelling. Dere må selv kontrollere og redigere."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å skrive, telle ord og vise første og siste versjon."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Fungerer fint til intervju-svar, idéer og redigering før teksten skrives inn digitalt."
+   },
+   {
+    "navn": "LibreOffice Writer",
+    "hvorfor": "Gratis skriveprogram som kan telle ord uten konto."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Be AI stille bare ja/nei-spørsmål først, og deretter ett spørsmål om hvorfor dere svarte slik.",
+   "La hovedpersonen være en 15-åring, en robotlærer eller en seksåring som besøker framtidsskolen.",
+   "Hvis ordtellingen blir vanskelig: skriv teksten i et dokument med ordtelling, og tell sammensatte uttrykk på samme måte hver gang."
+  ],
+  "vis_fram": "Les først tre–fire linjer fra første forsøk, vis begge tekstene ved siden av hverandre, og les så sluttversjonen på 100 ord. Pek på én setning dere byttet ut og si hvorfor.",
+  "bonus": "Lag en tredje versjon der én viktig ting er fjernet, og se om gruppa fortsatt forstår historien. Eller spill inn historien som en 20-sekunders lydmelding med en egen robotstemme.",
+  "til_hjelperen": "Se etter at ungdommene faktisk svarer på intervjuet med egne ideer, og at de ikke bare godtar AI-utkastet. Spør: «Hvilken del av sluttteksten kunne bare dere ha funnet på?»",
+  "tags": [
+   "100 ord",
+   "framtidsskole",
+   "intervju-AI",
+   "redigering",
+   "Hamar"
+  ],
+  "minutter": 30,
+  "kategori": "ord",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en fortelling på nøyaktig 100 ord",
+   "tema": [
+    "skolen om 20 år",
+    "det beste med å være 15"
+   ],
+   "vri": "det må kunne forstås av en 6-åring"
+  }
+ },
+ {
+  "tittel": "Velkommen til feilbyen",
+  "teaser": "Kom inn, trykk på feil valg, og se om du overlever første dag med tom lommebok!",
+  "oppdrag": "Lag en kort interaktiv historie der hovedpersonen er ny på et sted og har lite eller ingen penger. Spilleren skal ta minst tre valg, og historien må inneholde én feil med vilje – for eksempel en knapp som sender deg feil sted eller en valgmulighet som ikke gir mening. Til slutt skal en AI få rollen som kritisk redaktør og vurdere historien.",
+  "steg": [
+   {
+    "tid": "4 min",
+    "tekst": "Uten AI: Velg stedet, hovedpersonen og problemet. Skriv ned tre valg spilleren kan ta, to mulige slutter og én feil du vil putte inn med vilje."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Lag historien i ett verktøy. Bruk tekst, knapper eller lenker slik at spilleren faktisk kan velge seg gjennom historien. Hold den kort: omtrent 6–10 tekstbiter totalt."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Legg inn den planlagte feilen. Gjør den tydelig nok til at noen kan oppdage den, men ikke forklar hvor den er."
+   },
+   {
+    "tid": "6 min",
+    "tekst": "Vis historien til en annen person. Be dem prøve uten instruksjoner. Se hvor de trykker, hvor de stopper og om de oppdager feilen."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Be AI være en kritisk redaktør: Lim inn teksten eller beskriv valgene, og skriv: «Du er en kritisk redaktør. Vurder denne interaktive historien for en nybegynner som spiller uten instruksjoner. Finn tre ting som fungerer, tre ting som er uklare, og foreslå ett spørsmål jeg bør stille spilleren. Ikke skriv om historien.» Velg selv én forbedring og gjør den."
+   }
+  ],
+  "ai_grepet": "Gi AI en tydelig rolle som kritisk redaktør, og bruk vurderingen som innspill – ikke som fasit. Du bestemmer selv hvilken tilbakemelding som faktisk gjør historien bedre.",
+  "verktoy": [
+   {
+    "navn": "Twine",
+    "hvorfor": "Gratis verktøy for interaktive historier, og kan brukes i nettleseren uten konto."
+   },
+   {
+    "navn": "Scratch",
+    "hvorfor": "Gratis og visuelt; bruk figurer, bakgrunner og klikkbare valg for å lage historien."
+   },
+   {
+    "navn": "Google Slides eller Canva",
+    "hvorfor": "Lag én side per scene og koble valg med lenker eller knapper. Fungerer fint for en enkel prototype."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Tegn scener og valg som et brettspill, la en annen velge, og ta bilde av resultatet."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start med: «Du er ny på Hamar og har 47 kroner. Første valg: spørre om veien eller kjøpe en mystisk bolle.»",
+   "Lag bare tre scener først: start, et valg og en slutt. Du kan kopiere en scene etterpå.",
+   "Feilen kan være enkel: En knapp som sier «gå til busstasjonen», men som sender spilleren til «du er plutselig på månen»."
+  ],
+  "vis_fram": "La én annen person spille i 20 sekunder uten forklaring. Vis deretter hvor feilen var, og si hvilken tilbakemelding fra AI du valgte å bruke.",
+  "bonus": "Lag en ekstra slutt der spilleren får hjelp av en lokal person, men bare hvis spilleren først bruker pengene sine på noe helt unødvendig.",
+  "til_hjelperen": "Se etter om deltakeren selv har valgt hva som skal beholdes etter AI-tilbakemeldingen, og om feilen er laget med vilje. Spør: «Hva trodde du spilleren kom til å gjøre her – og hva gjorde personen faktisk?»",
+  "tags": [
+   "interaktiv historie",
+   "spilldesign",
+   "feilsøking",
+   "Hamar",
+   "AI som redaktør"
+  ],
+  "minutter": 30,
+  "kategori": "spill",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en interaktiv historie",
+   "tema": [
+    "å være ny et sted",
+    "penger"
+   ],
+   "vri": "det må inneholde en feil med vilje"
+  }
+ },
+ {
+  "tittel": "Skoleboten fra framtida",
+  "teaser": "Kom og test boten som vet alt om skolen om 20 år – men kanskje ikke helt skjønner hva du mener!",
+  "oppdrag": "Lag en enkel bot som svarer på én bestemt type spørsmål om skolen i Hamar om 20 år, for eksempel «Hva finnes i det gamle skolebygget?» eller «Hvordan lærer man når skolen er borte?». Boten skal være så lett å forstå at en 6-åring kan bruke den, og en annen gruppe skal klare å prøve den uten instruksjoner.",
+  "steg": [
+   {
+    "tid": "4 min",
+    "tekst": "Uten AI: Velg sammen et sted som er borte eller holder på å forsvinne i Hamar, og bestem hva slags spørsmål boten skal svare på. Skriv også tre regler for svarene, for eksempel «maks to setninger», «bruk en sammenligning» og «aldri bruk vanskelige ord»."
+   },
+   {
+    "tid": "6 min",
+    "tekst": "Be en tekst-AI stille dere spørsmål, ett om gangen, helt til dere vet nøyaktig hva boten skal gjøre. Be den utfordre uklare valg, men ikke lage selve boten ennå. Svar på spørsmålene og bestem dere selv når ideen er tydelig."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Bygg boten i et verktøy dere kjenner, eller lag en falsk bot med en enkel nettside, et delt dokument eller lapper på veggen. Gi boten en kort velkomst, ett eksempel på et spørsmål og reglene dere valgte. Test minst tre spørsmål og endre svar som blir for lange, vanskelige eller kjedelige."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "La én person som ikke bygde boten, prøve den uten instruksjoner. Se hvor personen stopper opp. Fiks én konkret ting basert på testen: navn, starttekst, spørsmålsform eller svarregel."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Vis fram boten: Si bare navnet på den, la en annen prøve uten hjelp, og les opp eller vis det rareste svaret den ga."
+   }
+  ],
+  "ai_grepet": "AI brukes som en kritisk spørsmålsstiller før byggingen starter. Den hjelper gruppa å oppdage hva dere egentlig vil lage, mens dere selv må velge retning og stoppe spørsmålrunden når ideen er klar.",
+  "verktoy": [
+   {
+    "navn": "Lovable",
+    "hvorfor": "Kan lage en enkel chat-nettside raskt når dere beskriver botens regler og utseende."
+   },
+   {
+    "navn": "Claude eller ChatGPT",
+    "hvorfor": "Kan brukes både som spørsmålsstiller og som selve prototype-boten i en samtale."
+   },
+   {
+    "navn": "Scratch",
+    "hvorfor": "Gratis uten konto for enkel blokkbygging; lag spørsmål og svar som en liten interaktiv figur."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Gratis og enkelt uten konto i noen oppsett; lag en bot-prototype med tydelige knapper, spørsmål og svar på lapper eller i tekst."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg ett spørsmål boten alltid skal svare på: «Hva har skjedd med dette stedet i framtida?»",
+   "Tenk på stedet som en figur: Hva savner det, hva har det blitt til, og hva ville det sagt til en 6-åring?",
+   "Hvis AI spør for mye, svar «gi meg tre valg» og velg ett."
+  ],
+  "vis_fram": "La en annen person sette seg ved boten og prøve den uten forklaring. Etterpå har dere 10 sekunder til å si hvilket gammelt sted og hvilken framtid boten handler om.",
+  "bonus": "Lag ett svar som med vilje er nesten riktig, men morsomt feil. Se om testeren oppdager det og kan forklare hva boten burde svart.",
+  "til_hjelperen": "Se etter om gruppa faktisk har avgrenset boten til én type spørsmål, og om svarene er forståelige for en 6-åring. Spør: «Hva valgte dere bort for at denne boten skulle bli tydelig?»",
+  "tags": [
+   "spill og kode",
+   "Hamar",
+   "framtid",
+   "chatbot",
+   "brukertesting"
+  ],
+  "minutter": 30,
+  "kategori": "spill",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en bot som svarer på én type spørsmål",
+   "tema": [
+    "et sted som er borte",
+    "skolen om 20 år"
+   ],
+   "vri": "det må kunne forstås av en 6-åring"
+  }
+ },
+ {
+  "tittel": "Værste reklame noensinne",
+  "teaser": "Kom inn og se en reklame for Innlandet så elendig at den kanskje blir genial – med vind, dyr og fullstendig feilslått salgsteknikk!",
+  "oppdrag": "Lag en kort reklame for Løten, Stange eller Ringsaker. Reklamen skal først være med vilje skikkelig dårlig, og deretter forbedres til noe som faktisk får folk til å bli nysgjerrige på stedet. Bruk vær og vind og et dyr som lever i Innlandet, og framfør den forbedrede reklamen uten å lese manus.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Velg Løten, Stange eller Ringsaker. Skriv ned tre ting du forbinder med stedet, ett slags vær eller vind, og ett dyr som lever i Innlandet. Lag deretter en elendig reklameidé med minst én rar overdrivelse."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Skriv et brev til en tekst-AI, for eksempel ChatGPT, Claude eller Gemini. Skriv som om du ber en person om hjelp: «Kjære … Jeg har laget denne dårlige reklamen … Kan du hjelpe meg å gjøre den bedre?» Ta med ideen din, stedet, været og dyret. Be om et manus som varer omtrent 20 sekunder, men ikke be AI bestemme alt."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Les forslaget. Velg selv hva som skal beholdes, endres eller fjernes. Sjekk at reklamen faktisk handler om det valgte stedet, og legg inn én egen setning eller detalj som AI ikke fant på."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Øv på å framføre reklamen uten å lese. Du kan bruke stemmen, mime, en enkel tegning, en lyd eller mobilen som rekvisitt. Framfør den minst to ganger, og gjør én liten forbedring etter første forsøk."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "La en annen prøve det du laget uten instruksjoner. Be personen bare framføre reklamen slik de tror den skal framføres. Vis deretter din egen versjon og si kort hva du endret fra den dårlige til den bedre reklamen."
+   }
+  ],
+  "ai_grepet": "Du trener på å skrive prompten som et personlig brev, slik at AI får bakgrunn og hensikt i stedet for bare kommandoer. Du bruker deretter AI-forslaget som råstoff og velger selv hva som passer.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Enkelt for å få hjelp til et kort reklamemanus, og du kan bruke bare ett av dem."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å skrive brevet og velge hvilke deler av manuset du vil beholde."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Du kan skrive, øve og filme reklamen uten flere digitale verktøy. Gratis og uten konto."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start brevet slik: «Kjære tekstrobot. Jeg trenger hjelp til å gjøre denne elendige reklamen litt mindre elendig …»",
+   "Velg et konkret bilde: vind som blåser en elg baklengs, eller en bonde som prøver å selge regn som suvenir.",
+   "Be AI lage tre korte versjoner, men velg bare én idé og gjør den til din egen."
+  ],
+  "vis_fram": "Spill av eller framfør reklamen på maks 20 sekunder. La en annen først prøve å gjøre det uten instruksjoner, og avslutt med én setning om hva som ble bedre.",
+  "bonus": "Lag en ekstra dårlig versjon på fem sekunder med vilje, og la gruppa stemme på hvilken reklame som faktisk selger stedet best.",
+  "til_hjelperen": "Se etter om ungdommen selv har valgt hvilke AI-forslag som fungerer, ikke bare kopiert teksten. Spør: «Hva i reklamen er ditt, og hva ville du endret hvis været eller dyret skulle bli enda viktigere?»",
+  "tags": [
+   "Hamar og verden",
+   "reklame",
+   "brevprompt",
+   "vær og vind",
+   "Innlandet"
+  ],
+  "minutter": 30,
+  "kategori": "hamar",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en reklame for Løten, Stange eller Ringsaker",
+   "tema": [
+    "vær og vind",
+    "et dyr som lever i Innlandet"
+   ],
+   "vri": "det skal være så dårlig som mulig, med vilje – og så bedre"
+  }
+ },
+ {
+  "tittel": "Velkommen tel Hamar",
+  "teaser": "Kom innom og sjå åssen et heilt vanlig Hamar-sted blir gjort om tel verdens kuleste stoppested!",
+  "oppdrag": "Velg et sted i Hamar dere liker, for eksempel Koigen, Maxi, Domkirkeodden eller en kafé. Lag et nytt navn og en logo som får folk som er nye i Hamar til å føle seg velkomne – gjerne som om stedet er en reisestasjon, portal eller skjult perle. Alt skal ha et tydelig Hamar-dialektpreg.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Velg stedet og skriv ned tre ting dere forbinder med det, tre ord en nyinnflyttet eller turist bør høre, og én lokal måte å si noe på. Finn også på minst tre rare navn."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Velg ett navn og bestem hvem logoen skal lokke inn: en turist, en ny elev, en ny nabo eller en tidsreisende. Skissér logoen på papir eller i et designverktøy. Legg inn minst ett lokalt symbol, men unngå den aller mest opplagte løsningen."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Når dere står fast, bruk AI som sparringspartner. Skriv prompten som et brev til en ekte person, for eksempel: «Hei, vi prøver å gi [sted] et nytt navn og en logo for folk som er nye i Hamar ...». Be om tre forslag som bruker Hamar-dialekt, og forklar hva dere liker og ikke liker. Ikke kopier et forslag uten å endre det."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Gjør ferdig én tydelig navne- og logoversjon. Sjekk at dialekten høres naturlig ut, at navnet kan uttales høyt, og at en person som aldri har vært der skjønner hvilken følelse stedet skal gi."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Vis logoen og navnet til en annen person uten instruksjoner. Be dem bare si hva de tror stedet er, hvem det er for, og hva de tror dialektordene betyr. Gjør én rask forbedring basert på det de sa."
+   }
+  ],
+  "ai_grepet": "Du bruker AI som en person du skriver et ekte brev til, ikke som en knapp du trykker på. Brevet gir AI nok situasjon og menneskelig retning til å bli en sparringspartner når dere faktisk står fast.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan gi navne- og språkforslag når dere skriver til den som en ekte sparringspartner."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Praktisk for å sette navn, symbol og farger sammen til en logo."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Gratis og raskt: tegn logoen for hånd, ta bilde og vis den fram uten konto."
+   },
+   {
+    "navn": "Ideogram eller ChatGPT-bilder",
+    "hvorfor": "Kan lage visuelle utkast dere kan plukke ideer fra, men dere må selv velge, endre og gjøre logoen lesbar."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Tenk på hva en ny person ville lett etter først: mat, utsikt, venner, varme eller en vei videre.",
+   "Bruk en lokal lyd eller vending, men skriv den så også folk utenfra kan gjette meningen.",
+   "La stedet bli noe helt annet: Koigen som romstasjon, biblioteket som innflytterterminal eller Mjøsa som resepsjon."
+  ],
+  "vis_fram": "Vis navnet og logoen i fem sekunder uten forklaring. La en annen person gjette hva stedet er, hvem det er for, og hva den Hamar-aktige formuleringen betyr. Fortell så på ti sekunder hva dere endret etter testen.",
+  "bonus": "Lag en alternativ versjon for folk som kommer til Hamar fra en helt annen planet, men behold det samme dialektordet.",
+  "til_hjelperen": "Se etter at gruppa selv velger og redigerer, og at AI ikke blir brukt før de står fast. Spør: «Hva i dette kunne bare vært laget av akkurat dere som kjenner Hamar?»",
+  "tags": [
+   "Hamar",
+   "dialekt",
+   "logo",
+   "rebranding",
+   "nye steder"
+  ],
+  "minutter": 30,
+  "kategori": "hamar",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "et nytt navn og logo for et sted du liker",
+   "tema": [
+    "reiser",
+    "å være ny et sted"
+   ],
+   "vri": "det skal være i Hamar-dialekt"
+  }
+ },
+ {
+  "tittel": "Kostymet fra 2041",
+  "teaser": "Kom inn, kom inn – se framtidas merkeligste kostyme, og hjelp skaperen med å bestemme hvordan historien slutter!",
+  "oppdrag": "Lag et lite framtidsshow med et kostyme av ting du finner i rommet. Skriv eller bestem selv første halvdel av historien om en person fra 2041 som bruker et norsk-umulig ord, og la AI foreslå tre ulike slutter. Velg én slutt, eller lag din egen, og la publikum delta i avgjørelsen.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Se deg rundt og velg tre ting i rommet som kan bli kostymet ditt. Finn på et ord som ikke finnes på norsk, for eksempel «glimrask» eller «mjøsfnatt». Skriv første halvdel: Hvem er du i 2041, hva har du på deg, og hva betyr ordet?"
+   },
+   {
+    "tid": "6 min",
+    "tekst": "Lag kostymet med de tre tingene. Det kan være stilig, upraktisk eller helt latterlig. Bestem én tydelig bevegelse eller positur som viser hva kostymet kan gjøre."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Bruk ett tekstverktøy. Skriv inn din egen første halvdel og be AI foreslå tre forskjellige slutter til showet. Be om at alle sluttene bruker det rare ordet, kostymet og en tydelig publikumsavgjørelse. Ikke be AI lage starten på nytt."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Les forslagene. Velg den slutten du liker best, eller bland dem og lag din egen. Finn én enkel måte publikum skal delta på, for eksempel å rope «A» eller «B», velge en bevegelse eller bestemme hva det rare ordet betyr."
+   },
+   {
+    "tid": "4 min",
+    "tekst": "Øv én gang. Vis starten, kostymet, publikumsvalget og slutten på maks 30 sekunder. Gjør én liten forbedring etter øvingen: tydeligere stemme, større bevegelse eller en morsommere overgang."
+   },
+   {
+    "tid": "3 min",
+    "tekst": "Vis fram: Først forteller du kort hva du fant på selv. Så viser du den første versjonen av kostymet eller historien, deretter den ferdige versjonen. La publikum delta i valget eller bevegelsen, og avslutt med det norske-umulige ordet."
+   }
+  ],
+  "ai_grepet": "Du skriver første halvdel selv og bruker AI som sluttgenerator, ikke som forfatter av hele ideen. Du vurderer tre forslag, velger det som passer best, og kan skrive din egen slutt hvis AI bommer.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT",
+    "hvorfor": "Enkelt å lime inn starten og be om tre korte, ulike slutter i samme tekst."
+   },
+   {
+    "navn": "Google Gemini",
+    "hvorfor": "Kan foreslå tre alternative slutter på norsk og er lett å bruke i nettleseren."
+   },
+   {
+    "navn": "Claude",
+    "hvorfor": "God til å holde fast på detaljer som kostymet, året og det rare ordet."
+   },
+   {
+    "navn": "Notater eller Google Docs",
+    "hvorfor": "Gratis og uten behov for AI-konto hvis du vil skrive starten og lage slutten selv etter å ha fått hjelp av en voksen."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start med setningen: «I 2041 sto jeg midt i rommet iført …» og la det rare ordet være noe du ville brukt når du er overrasket.",
+   "Be AI lage tre slutter som er helt forskjellige: én triumferende, én pinlig og én mystisk.",
+   "La publikum velge mellom to bevegelser: robotdans eller høytidelig kongelig vinking."
+  ],
+  "vis_fram": "Hold opp eller pek på den første, enkle kostymeideen, og vis så den ferdige versjonen. Fortell én setning fra din egen start, la publikum ta et valg, og spill slutten som valget fører til.",
+  "bonus": "La publikum finne på et nytt norsk-umulig ord etter showet, og improviser en ekstra replikk eller bevegelse som forklarer hva ordet betyr i 2041.",
+  "til_hjelperen": "Se etter at ungdommen faktisk lager starten og velger mellom AI-forslagene, i stedet for å bruke første forslag ukritisk. Spør: «Hva er det i din versjon som AI ikke kunne visst på forhånd?»",
+  "tags": [
+   "scene",
+   "kostyme",
+   "improvisasjon",
+   "AI som sluttgenerator",
+   "2041"
+  ],
+  "minutter": 30,
+  "kategori": "kropp",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "et kostyme laget av det som finnes i rommet",
+   "tema": [
+    "2041",
+    "et ord som ikke finnes på norsk"
+   ],
+   "vri": "publikum må delta"
+  }
+ },
+ {
+  "tittel": "Den elendige hemmeligheten",
+  "teaser": "Kom inn, kom inn – se en dans som med vilje er helt feil, men kanskje kan reddes før tiden er ute!",
+  "oppdrag": "Lag en dans på 30 sekunder om en hemmelighet og et ord som ikke finnes på norsk. Første versjon skal være dårlig med vilje. Be AI forklare hvorfor den er dårlig, og fiks dansen selv. Vri: Alt som sies, skrives eller vises som tekst underveis, må være formulert som et spørsmål.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Finn på et norsk-umulig ord, for eksempel «skvulpelur», og bestem hvilken hemmelighet kroppen deres prøver å skjule. Lag tre bevisst dårlige dansevalg: for lite bevegelse, altfor mye gjentakelse eller helt feil stemning."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Lag og øv en 30-sekunders dans som med vilje er dårlig. Dere kan bruke mobilkamera og musikk, men eventuelle muntlige eller skriftlige ord må være spørsmål, som «Vet du hva jeg skjuler?» eller «Er dette skvulpelur?»."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Vis dansen til AI gjennom en kort beskrivelse eller video-tekst. Be AI forklare konkret hvorfor dansen fungerer dårlig, men krev at AI bare bruker spørsmål. Eksempel: «Hvorfor er denne dansen dårlig? Hvilke tre valg gjør den kjedelig? Hva kunne gjort hemmeligheten tydeligere?»"
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Velg selv hvilke råd dere vil bruke, og fiks dansen uten å la AI bestemme bevegelsene. Bytt minst to dansevalg, men behold én herlig dårlig detalj. Øv på at hele dansen varer omtrent 30 sekunder."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Vis den ferdige dansen. Etterpå forteller dere én ting som overrasket dere, som et spørsmål: «Hvorfor ble den rare pausen det beste partiet?»"
+   }
+  ],
+  "ai_grepet": "Lag først noe dårlig med vilje, og bruk AI som kritiker – ikke som koreograf. AI peker på svakheter, mens dere selv velger hva som faktisk skal fikses.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan analysere en beskrivelse av dansen og stille kritiske spørsmål. Gratisversjoner holder."
+   },
+   {
+    "navn": "Mobilkamera og Notes",
+    "hvorfor": "Film første versjon, skriv ned bevegelsene og lim beskrivelsen inn i en tekst-AI. Krever ingen ekstra produksjon."
+   },
+   {
+    "navn": "CapCut",
+    "hvorfor": "Kan filme, klippe og legge på musikk eller spørsmål som tekst. Gratisversjon er nok."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Tegn dansen som en enkel tegneserie og be en tekst-AI vurdere beskrivelsen. Hele oppgaven kan gjøres uten avansert utstyr."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Gjør hemmeligheten synlig med én kroppsdel som alltid prøver å gjemme seg.",
+   "Bruk det oppdiktede ordet som en bevegelse: Hva slags kropp får «skvulpelur»?",
+   "Be AI svare på bare tre spørsmål: Hva er uklart? Hva gjentar seg? Hva kan bli mer overraskende?"
+  ],
+  "vis_fram": "Vis først den dårlige versjonen i fem sekunder, deretter den ferdige 30-sekundersdansen. Si én overraskelse som et spørsmål, for eksempel: «Hvorfor ble den mest klønete bevegelsen det viktigste tegnet på hemmeligheten?»",
+  "bonus": "La en annen gruppe gjette hemmeligheten og betydningen av det oppdiktede ordet uten at dere forklarer det først.",
+  "til_hjelperen": "Se etter om gruppa faktisk lager en tydelig førsteversjon før de ber AI om kritikk, og om de selv velger hva som skal endres. Spør: «Hvilket råd fra AI kastet dere, og hvorfor?»",
+  "tags": [
+   "dans",
+   "hemmelighet",
+   "oppdiktet ord",
+   "AI som kritiker",
+   "Hamar"
+  ],
+  "minutter": 30,
+  "kategori": "kropp",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en dans på 30 sekunder",
+   "tema": [
+    "en hemmelighet",
+    "et ord som ikke finnes på norsk"
+   ],
+   "vri": "bare spørsmål er lov"
+  }
+ },
+ {
+  "tittel": "Vinterens Regelbrudd-Rap",
+  "teaser": "Kom inn og hør to historiske legender krangle om framtidas Hamar – på 30 sekunder, med minst ett regelbrudd!",
+  "oppdrag": "Lag en rap-battle mellom to historiske personer om framtidas Hamar om vinteren. Be AI lage tre regler for battlen, men bryt minst én av dem med vilje. Resultatet skal vare i maks 30 sekunder og ha både noe du har laget selv og noe AI har bidratt med.",
+  "steg": [
+   {
+    "tid": "8 min",
+    "tekst": "Uten AI: Velg to historiske personer, for eksempel Sigrid Undset, Edvard Munch, Fridtjof Nansen eller en lokal person. Skriv ned hvem de er, hva de ønsker seg i framtidas vinter-Hamar, og én setning hver som de kunne rappet."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Bruk én tekst-AI, for eksempel ChatGPT, Claude eller Gemini. Skriv: «Jeg lager en rap-battle på maks 30 sekunder mellom [person 1] og [person 2] om framtidas Hamar om vinteren. Lag tre tydelige regler for battlen, men ikke skriv selve rapteksten ennå.» Les reglene og velg én du skal bryte."
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Be samme AI lage et kort utkast som følger reglene. Be om to vers og en avslutning, med tydelige replikker for begge personene. Ikke lim inn alt ukritisk: bytt ut minst fire linjer med dine egne, og sjekk at personene ikke får helt feil fakta."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Øv inn battlen med stemmen din. Gjør regelbruddet tydelig, for eksempel ved å la én person synge i stedet for å rappe, bruke et moderne slangord, snakke altfor høyt eller få en tredje figur inn. Spill inn på mobilen, eller framfør direkte."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Test den på én annen person. Spør: «Hvilke deler tror du er laget av AI, og hva tror du er laget av meg?» Gjør én siste endring etter svaret, slik at tempoet og poenget fungerer på maks 30 sekunder."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Spill av eller framfør battlen for gruppa. Si etterpå hvilke tre regler AI laget, hvilken regel du brøt, og la de andre gjette hva som er AI og hva som er deg."
+   }
+  ],
+  "ai_grepet": "Du lar AI bestemme arbeidsreglene før den lager innholdet, og bruker deretter din egen dømmekraft til å bryte én regel med vilje. Det trener deg i å behandle AI-forslag som materiale, ikke som fasit.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Enkelt for å få regler og et kort raputkast i samme samtale."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å klippe, skrive om og markere hvilke linjer du selv har laget."
+   },
+   {
+    "navn": "Mobilens opptaker",
+    "hvorfor": "Gratis og uten konto; holder til innspilling og avspilling av en 30-sekunders rap."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Du kan skrive teksten for hånd og filme framføringen uten å bruke flere AI-verktøy."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg to personer med helt ulik stil, for eksempel Munch mot Nansen, og la konflikten være «kunstsnø» mot «ekte snø».",
+   "Hvis AI-reglene blir kjedelige, bruk dem som springbrett: bryt rytmeregelen, bytt språk midt i verset eller la én historisk person rappe om en framtidig vinterbuss.",
+   "Hold hver replikk kort. To morsomme linjer slår åtte halvferdige."
+  ],
+  "vis_fram": "Spill av eller framfør rap-battlen på maks 30 sekunder. Be gruppa peke ut én linje de tror er laget av AI, og gjett hvilket regelbrudd de hørte.",
+  "bonus": "Lag en ny versjon der du bytter bare én ting: tempo, dialekt eller stemme. Spill begge versjonene etter hverandre og spør hvilken som fungerer best.",
+  "til_hjelperen": "Se etter om ungdommen selv har valgt personene, skrevet om AI-utkastet og faktisk brutt en regel med vilje. Spør: «Hvilken del ville blitt dårligere hvis du fulgte AI-reglene helt?»",
+  "tags": [
+   "rap",
+   "vinter",
+   "framtidas Hamar",
+   "historie",
+   "AI-regler"
+  ],
+  "minutter": 60,
+  "kategori": "lyd",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en rap-battle mellom to historiske personer",
+   "tema": [
+    "framtidas Hamar",
+    "vinter"
+   ],
+   "vri": "det må være mulig å gjøre på 30 sekunder"
+  }
+ },
+ {
+  "tittel": "Svart-hvitt på Mjøsa",
+  "teaser": "Kom inn, kom inn – lag Hamar-butikken sin mest misforståtte jingle, med bare svart og hvitt i lydbøtta!",
+  "oppdrag": "Lag en 20–30 sekunders jingle for en butikk i Hamar. Jingelen skal bygge på noe mange tror er sant, men som egentlig er feil, eller på en misforståelse. Alt i lyden skal være svart-hvitt: bruk bare to tydelige toner, to klangfarger eller et strengt «på/av»-system.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Velg butikk, misforståelse og én svart-hvitt-regel. Finn også på en kort slagsetning eller refreng. Skriv ned tre ord jingelen må få folk til å huske."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Lag en enkel skisse uten AI: klapp rytmen, nynne melodien, skriv teksten og bestem hvor de to lydsidene skal veksle. Ta opp en råversjon på mobilen."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Lag første ordentlige versjon med stemmen, klapping, instrument eller musikkverktøy. Bruk AI bare dersom dere står fast, for eksempel til å foreslå rim, rytme eller en kort melodisk idé. Be om maks tre forslag, ikke en ferdig jingle."
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Spill jingelen for én annen gruppe eller en hjelper uten å forklare misforståelsen først. Be dem svare på: Hvilken butikk er dette? Hva tror de jingelen påstår? Juster teksten, rytmen eller lydene ut fra svaret."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Ferdigstill jingelen. Klipp bort lang stillhet, gjør starten tydelig og pass på at svart-hvitt-regelen faktisk høres. Skriv en liten lapp med butikk, misforståelse, regelen og eventuell prompt dere brukte."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Heng lappen på veggen sammen med en QR-kode, lenke eller mobil som kan spille av jingelen. Øv på en 30-sekunders presentasjon: spill av et utdrag og fortell hva som var feiloppfatningen og hva dere endret selv."
+   }
+  ],
+  "ai_grepet": "Start uten AI i fem minutter, og bruk AI kun til det dere står fast på. Da må gruppa først lage sin egen retning, mens AI blir en sparringspartner for ett konkret problem – ikke komponisten deres.",
+  "verktoy": [
+   {
+    "navn": "Mobilopptak og en gratis lydapp",
+    "hvorfor": "Dere kan lage hele jingelen med stemmer, klapping og lyder fra rommet. Dette fungerer uten konto og gir full kontroll over svart-hvitt-regelen."
+   },
+   {
+    "navn": "Suno eller Udio",
+    "hvorfor": "Kan lage et musikalsk utkast når dere har skrevet deres egen tekst og bestemt den tydelige lydregelen. Bruk bare AI når dere står fast."
+   },
+   {
+    "navn": "BandLab",
+    "hvorfor": "Gratis verktøy for å spille inn stemmer og bygge rytme eller enkel melodi i lag."
+   },
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan hjelpe med rim, kortere tekst eller forslag til hvordan en misforståelse kan bli tydeligere, men bare etter at dere har prøvd selv."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg en butikk som Rema, en bruktbutikk eller en kiosk, og bruk misforståelsen «folk tror denne butikken selger …, men egentlig …».",
+   "La svart-hvitt være to lyder: for eksempel klapp og knips, mørk stemme og lys stemme, eller lyd og stillhet.",
+   "Be AI om tre alternative rim på én linje dere allerede har skrevet – ikke om å lage hele jingelen."
+  ],
+  "vis_fram": "Spill av 20–30 sekunder, vis lappen med butikk, misforståelse, svart-hvitt-regel og prompt, og si én setning om hva dere måtte fikse etter testen på en annen person.",
+  "bonus": "Lag en alternativ versjon der jingelen misforstår seg selv: Først høres det ut som reklame for én vare, men siste linje avslører hva butikken egentlig selger.",
+  "til_hjelperen": "Se etter om ungdommene faktisk har valgt butikk, misforståelse og lydregel selv, og om de har forbedret jingelen etter å ha testet den. Spør: «Hva ville en kunde misforstått hvis dere ikke endret denne delen?»",
+  "tags": [
+   "lyd",
+   "jingle",
+   "Hamar",
+   "misforståelse",
+   "svart-hvitt"
+  ],
+  "minutter": 60,
+  "kategori": "lyd",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en jingle for en butikk i Hamar",
+   "tema": [
+    "noe alle tror er sant men som er feil",
+    "en misforståelse"
+   ],
+   "vri": "alt skal være svart-hvitt"
+  }
+ },
+ {
+  "tittel": "Skoesken som ser",
+  "teaser": "Kom inn, kjenn etter og oppdag en liten utstilling om urettferdighet – laget for både øyne og hender!",
+  "oppdrag": "Lag en utstilling i en skoeske om enten det som er urettferdig eller frykten for å mislykkes. Utstillingen skal kunne oppleves av en person som ikke kan se, med ting som kan kjennes, høres eller forklares med lyd. Bruk AI som en spørsmålsstiller: Den skal hjelpe deg å finne ut hva du egentlig vil lage, men du bestemmer svarene og bygger selv.",
+  "steg": [
+   {
+    "tid": "8 min",
+    "tekst": "Uten AI: Se deg rundt og velg én konkret situasjon, for eksempel å ikke bli valgt på laget, å få en idé ledd av eller å gjøre en feil foran andre. Skriv tre ord om følelsen, og finn minst tre ting du kan putte i en skoeske."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Be en tekst-AI stille deg ett spørsmål om gangen for å finne ut hva utstillingen din egentlig skal vise. Skriv for eksempel: «Still meg ett spørsmål om gangen. Hjelp meg å finne en tydelig idé til en utstilling i en skoeske om [tema]. Ikke foreslå løsninger før du har stilt minst fem spørsmål.» Svar med dine egne tanker."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Velg det viktigste fra samtalen med AI: én hovedidé, én følelse og én ting publikum skal oppdage. Skisser skoesken på papir fra siden og ovenfra. Bestem hvordan en person som ikke kan se skal kunne oppleve minst tre deler: med berøring, lyd eller en kort muntlig beskrivelse."
+   },
+   {
+    "tid": "18 min",
+    "tekst": "Bygg utstillingen. Bruk papir, papp, hyssing, små gjenstander, mobilopptak eller andre ting du finner. Lag gjerne en lyd på mobilen som spilles av når man åpner esken, eller lim inn en kort tekst i stor og tydelig skrift. Ikke prøv å forklare alt – la noe være litt mystisk."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Test den på en annen person uten å gi instruksjoner. La personen åpne og undersøke esken på egen hånd. Spør etterpå: «Hva trodde du dette handlet om?» og «Hva kunne du oppleve uten å se?» Gjør én rask forbedring basert på svaret."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Gjør klar en 30-sekunders visning: La testpersonen prøve esken igjen uten forklaring, og si deretter én setning om hva du ville at personen skulle oppdage. Vis én detalj du endret etter testen."
+   }
+  ],
+  "ai_grepet": "Du bruker AI som en intervjuer, ikke som en idémaskin. Ved å svare på spørsmål ett om gangen finner du fram til din egen idé før du lager noe.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Enkelt for nybegynnere: be om ett spørsmål om gangen og svar med dine egne ord."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Skriv ned spørsmålene, svarene og den valgte idéen uten å måtte bruke flere verktøy."
+   },
+   {
+    "navn": "Penn, papir, saks og ting du finner",
+    "hvorfor": "Gratis og uten konto; perfekt til å bygge selve skoeskeutstillingen."
+   },
+   {
+    "navn": "Mobilens kamera og lydopptaker",
+    "hvorfor": "Kan ta opp en kort lyd, en beskrivelse eller dokumentere hvordan utstillingen oppleves."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Be AI spørre: «Hva er det verste som kan skje i denne situasjonen?» eller «Hvem opplever urettferdigheten, og hvem merker den ikke?»",
+   "Tenk på kontraster: noe som er lett å finne og noe som er gjemt, noe som er mykt og noe som stikker, eller en trygg lyd og en urolig lyd.",
+   "Hvis du mangler materialer, lag tre overflater av papir: glatt, krøllet og revet. Det holder til å fortelle en hel historie."
+  ],
+  "vis_fram": "La en annen åpne og oppleve skoesken helt uten forklaring. Etterpå sier du på maks 30 sekunder hva personen oppdaget, hva som skulle være mulig å oppleve uten syn, og hvilken endring du gjorde etter testen.",
+  "bonus": "Lag en ny, skjult del i esken som bare kan oppdages ved å lytte eller kjenne etter. Test om den andre personen finner den uten hjelp.",
+  "til_hjelperen": "Se etter om ungdommen selv har valgt situasjonen og om AI-samtalen faktisk hjalp dem å spisse ideen, i stedet for å lage den ferdig. Spør: «Hva oppdaget testpersonen som du ikke hadde tenkt på?»",
+  "tags": [
+   "utstilling",
+   "tilgjengelighet",
+   "skoeske",
+   "fortelling",
+   "Hamar"
+  ],
+  "minutter": 60,
+  "kategori": "bilde",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en utstilling i en skoeske",
+   "tema": [
+    "det som er urettferdig",
+    "frykt for å mislykkes"
+   ],
+   "vri": "det må ta hensyn til noen som ikke kan se"
+  }
+ },
+ {
+  "tittel": "Rykte fra 1899",
+  "teaser": "Kom inn, kom inn – her er fem bilder som kanskje beviser at Hamar skjuler en utrolig historie!",
+  "oppdrag": "Lag en fotoserie på fem bilder om et rykte fra 1899. Serien skal være så troverdig at en voksen først kan tro at den dokumenterer noe ekte, men den må være ufarlig og avsløres som fiksjon etter visningen. Bruk AI bare når dere faktisk står fast.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Finn på et rykte fra 1899. Det kan handle om Mjøsa, en forsvunnet person, et hemmelig bygg, en merkelig oppfinnelse eller noe helt annet. Skriv også ned tre detaljer som gjør ryktet troverdig."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Uten AI: Planlegg fem bilder som en liten visuell etterforskning: ett åpningsbilde, tre spor og ett bilde som gir en mulig avslutning. Bestem sted, rekvisitter, roller og hva som skal være litt mistenkelig."
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Ta eller lag bildene. Bruk mobilkamera, tegning, collage eller bildegenerator. Hvis dere står fast på en konkret detalj, be AI om hjelp til akkurat den detaljen – ikke om å lage hele serien."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Sett bildene i rekkefølge og legg til små tegn på 1899: bildetekster, stempel, håndskrevet notat, avisutklipp, kart eller gammeldags språk. Fjern alt som gjør at serien ser tilfeldig ut."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Test serien på én voksen eller en annen gruppe uten å forklare. Spør bare: «Hva tror du har skjedd?» Noter hva personen tror, og endre ett eller to bilder eller tekster så historien blir tydeligere."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Vis serien i 30 sekunder uten forklaring. Etterpå avslører dere at det er en oppdiktet historie, og sier én kort setning om hvilket bilde som nesten fikk testen til å virke ekte."
+   }
+  ],
+  "ai_grepet": "Start uten AI i fem minutter, og bruk deretter AI kun til det dere står fast på. Dere må selv velge ryktet, bildene og hva som gjør serien troverdig.",
+  "verktoy": [
+   {
+    "navn": "Mobilkamera og Notes",
+    "hvorfor": "Gratis og uten konto; passer til iscenesatte bilder, bildetekster og raske tester på andre."
+   },
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan hjelpe med én konkret detalj dere sitter fast på, for eksempel en kort 1899-formulering eller en plausibel rekvisitt."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Kan sette bildene sammen med avisutklipp, stempler, kart og bildetekster."
+   },
+   {
+    "navn": "ChatGPT-bilder eller Ideogram",
+    "hvorfor": "Kan lage historiske spor eller bakgrunner hvis dere mangler et bilde, men dere må selv bestemme motiv og plass i serien."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg et rykte som kan vises med ting dere allerede har: en nøkkel, en frakk, en lapp, et kart eller et tomt sted.",
+   "La ett bilde inneholde en liten feil som gjør at voksne begynner å diskutere: feil årstall, merkelig skygge eller et kjent sted med ukjent funksjon.",
+   "Be AI om tre forslag til akkurat den ene detaljen dere mangler, og velg eller endre ett selv."
+  ],
+  "vis_fram": "Vis de fem bildene i rask rekkefølge uten forklaring. La gruppa rope ut hva de tror ryktet handler om, og avslør deretter at historien er laget av dere.",
+  "bonus": "Lag en sjette «avslørende» bildevariant som viser hvordan dere jukset eller iscenesatte det mest troverdige sporet.",
+  "til_hjelperen": "Se etter om ungdommene selv har valgt historien, og om bildene fungerer som spor i riktig rekkefølge. Spør: «Hvilket bilde ville fått meg til å tro på dette – og hva kan gjøre det enda mer overbevisende uten å forklare mer?»",
+  "tags": [
+   "fotoserie",
+   "1899",
+   "rykte",
+   "iscenesetting",
+   "Hamar"
+  ],
+  "minutter": 60,
+  "kategori": "bilde",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en fotoserie på fem bilder",
+   "tema": [
+    "et rykte",
+    "1899"
+   ],
+   "vri": "det må lure en voksen til å tro det er ekte"
+  }
+ },
+ {
+  "tittel": "Gjenstandens klageplakat",
+  "teaser": "Kom inn og hør kjøleskapet, sekken eller sokken klage høylytt på livet – og se brevet som nekter å ligge i en skuff!",
+  "oppdrag": "Lag et klagebrev fra en gjenstand som synes det er pinlig å være rundt 15-åringer, eller som mener det beste med å være 15 er helt misforstått. Brevet skal kunne henges på en vegg som en plakat. Bruk AI til å få tre helt ulike skrivestiler, velg den som føles mest som deg, og gjør teksten til din egen.",
+  "steg": [
+   {
+    "tid": "8 min",
+    "tekst": "Velg en gjenstand du har i nærheten, for eksempel en skolesekk, tannbørste, hettegenser eller buss-stol. Skriv ned tre ting den har sett eller opplevd rundt 15-åringer, og velg om den skal klage på det pinlige eller skryte av det beste."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Skriv en kort bestilling til en tekst-AI: «Jeg lager et klagebrev fra en [gjenstand] om [tema]. Lag tre helt ulike stiler: én dramatisk, én tørr og sarkastisk, og én som høres ut som en gammeldags høytidelig klage. Brevet skal passe på en vegg og være maks 180 ord.»"
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Les de tre forslagene. Velg stilen som er mest deg – ikke nødvendigvis den «beste». Marker én setning du liker, én som er rar eller feil, og én del du vil skrive helt om."
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Skriv din egen ferdige versjon med gjenstandens navn som overskrift, minst to konkrete detaljer og en tydelig avslutning eller krav. Du kan låne ideer, men bytt ut formuleringer som ikke høres ut som deg."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Lag plakaten på papir eller skjerm. Gjør overskriften stor, del teksten opp så den er lett å lese, og legg til en enkel tegning, signatur eller «vedlegg» fra gjenstanden."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Heng opp eller vis plakaten. Fortell på 30 sekunder hvilken ting som overrasket deg mest underveis."
+   }
+  ],
+  "ai_grepet": "Be AI lage tre helt ulike stiler, og velg den som er mest deg. Poenget er å sammenligne stemmer og bruke AI-forslagene som råstoff, ikke å kopiere én ferdig tekst.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Gir tre stilforslag i én enkel samtale og fungerer fint for nybegynnere."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Praktisk for å redigere teksten og lage en ryddig digital plakat."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Du kan skrive og tegne plakaten for hånd og ta bilde av den etterpå, helt uten konto."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Gjør det lett å sette teksten inn i en veggplakat med stor overskrift og enkel layout."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "La gjenstanden klage på noe helt konkret: en våt gymbag, en glemt matpakke eller at den aldri får fri.",
+   "Skriv først én setning som begynner med: «Kjære menneske, nå har jeg fått nok av …»",
+   "Hvis stilene blir for like, be AI gjøre én som en politirapport, én som en raptekst eller én som en kongelig kunngjøring."
+  ],
+  "vis_fram": "Vis plakaten og si én ting som overrasket deg, for eksempel at den morsomste setningen kom fra feil stil, eller at gjenstanden plutselig fikk en helt annen personlighet enn du hadde tenkt.",
+  "bonus": "Lag et lite svarbrev fra 15-åringen til gjenstanden – på maks tre setninger – og heng det under klagen.",
+  "til_hjelperen": "Se etter om ungdommen har valgt stil selv og endret teksten slik at den får en personlig stemme. Spør: «Hvilken setning kunne bare denne gjenstanden ha sagt?»",
+  "tags": [
+   "ord",
+   "humor",
+   "plakat",
+   "klagebrev",
+   "ungdomsliv"
+  ],
+  "minutter": 60,
+  "kategori": "ord",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en klagebrev fra en gjenstand",
+   "tema": [
+    "det som er pinlig",
+    "det beste med å være 15"
+   ],
+   "vri": "det må kunne henges opp på en vegg"
+  }
+ },
+ {
+  "tittel": "Klage fra framtida",
+  "teaser": "Kom inn og møt en sur gjenstand fra framtidas Hamar – den har fått nok av været og vil si fra!",
+  "oppdrag": "Lag et klagebrev fra en gjenstand i framtidas Hamar. Gjenstanden klager på vær og vind, men brevet skal også avsløre noe morsomt, rart eller ubehagelig om byen i framtida. Utform brevet som en plakat som kan henges på veggen, og la en annen gruppe prøve å forstå hvem som klager – uten instruksjoner.",
+  "steg": [
+   {
+    "tid": "8 min",
+    "tekst": "Uten AI: Se for dere Hamar om 30 år. Velg én gjenstand som finnes der, for eksempel en Mjøsa-paraply, en selvkjørende spark, et vindu på Vikingskipet eller en vær-app som har blitt fysisk. Skriv ned tre ting gjenstanden er irritert over."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Lag en rask liste med ti mulige klager eller gjenstander ved hjelp av AI. Kast alle forslagene. Be deretter AI lage ti forslag som er det motsatte av de første: merkelige, upraktiske, overdrevent høflige eller helt feil. Velg én idé dere faktisk vil bruke, og skriv med egne ord hva som gjør den morsom."
+   },
+   {
+    "tid": "20 min",
+    "tekst": "Skriv klagebrevet. Ta med en tydelig mottaker, minst én konkret vær- eller vindplage, et krav gjenstanden stiller, og én detalj som bare gir mening i framtidas Hamar. Ikke bruk AI-teksten ukritisk: bytt ut kjedelige formuleringer og legg inn minst tre setninger gruppa selv har funnet på."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Lag brevet som veggplakat med stor overskrift, lesbar tekst og et visuelt spor som avslører eller skjuler hvem avsenderen er. Bruk papir og tusj, Canva, et dokument eller en kombinasjon. Gi plakaten en dato, et sted og en signatur fra gjenstanden."
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Heng opp plakaten. La en annen prøve den uten instruksjoner: De skal gjette hvem som klager, hva som har skjedd, og om de ville svart på klagen. Noter én ting de misforstår eller synes er ekstra bra, og gjør én siste endring."
+   }
+  ],
+  "ai_grepet": "Be AI lage ti idéer, kast alle, og be så om ti idéer som er det motsatte. Grepet gjør AI til en maskin for å komme seg ut av første, forutsigbare idé – mens gruppa selv bestemmer hva som faktisk er verdt å lage.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan lage de to rundene med idéforslag og hjelpe dere med å gjøre kontrastene tydelige. Gratisversjoner holder."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Gir en rask måte å lage en veggplakat med typografi, bilder og rare detaljer."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Passer til å skrive brevet sammen og redigere før dere lager plakaten."
+   },
+   {
+    "navn": "Papir, tusj og mobilkamera",
+    "hvorfor": "Gratis og uten konto. Håndskrift, piler og overteipede setninger kan gjøre klagen mer troverdig."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Velg en helt vanlig gjenstand og gi den ett umulig problem: En benk klager over at folk setter seg på den uten å bestille tid.",
+   "La klagen begynne høflig og ende med et dramatisk krav, som at hele Hamar må flytte inn under tak.",
+   "Bruk et framtidsord som ikke forklares. La den som ser plakaten lure på hva «Mjøsa-null», «vindvakt» eller «snøminnet» betyr."
+  ],
+  "vis_fram": "La en annen lese plakaten uten forklaring i 20 sekunder. Be dem si hvem som klager, hva problemet er, og hvilken detalj som fikk dem til å tro det. Les deretter høyt én setning dere er mest fornøyd med.",
+  "bonus": "Lag et lite svarbrev fra Hamar kommune, vinden eller en annen gjenstand. Heng det ved siden av originalen, men la svaret være uenig i nesten alt.",
+  "til_hjelperen": "Se etter om gruppa har valgt og forbedret selv, ikke bare limt inn et AI-forslag. Spør: «Hva ville blitt kjedelig eller forutsigbart hvis dere beholdt første idé?»",
+  "tags": [
+   "klagebrev",
+   "framtidas Hamar",
+   "vær og vind",
+   "plakat",
+   "AI-idémyldring"
+  ],
+  "minutter": 60,
+  "kategori": "ord",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en klagebrev fra en gjenstand",
+   "tema": [
+    "framtidas Hamar",
+    "vær og vind"
+   ],
+   "vri": "det må kunne henges opp på en vegg"
+  }
+ },
+ {
+  "tittel": "Søvnquiz med skjult skatt",
+  "teaser": "Kom inn, samle poeng, lær hvorfor søvn er rar – og møt den hemmelige slutten!",
+  "oppdrag": "Lag en liten quiz som lærer spilleren minst tre ting om søvn gjennom spørsmål om noe man samler på, for eksempel sokker, klistremerker, steiner eller digitale merker. Quizen skal ha en tvist på slutten: Når spilleren tror quizen er ferdig, skjer det noe uventet. Bruk AI til å finne ut hva du ikke trenger å lage, slik at quizen blir liten nok til å bli ferdig.",
+  "steg": [
+   {
+    "tid": "8 min",
+    "tekst": "Uten AI: Velg noe du vil samle på, og tegn quizen på et ark. Skriv fire spørsmål om søvn, tre mulige svar på hvert spørsmål og én tvist til slutt. Eksempel: Etter siste svar blir spilleren avslørt som en søvngjenger, eller samlingen blir stjålet av en drøm."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Åpne én tekstbasert AI, for eksempel ChatGPT, Claude eller Gemini. Skriv inn planen din og be AI finne ut hva du IKKE trenger å lage for at quizen skal fungere på 60 minutter. Be om en kort liste med ting du kan kutte, og sjekk selv om forslagene passer. Velg minst to ting å droppe."
+   },
+   {
+    "tid": "20 min",
+    "tekst": "Lag quizen i Scratch. Bruk spørsmål, svaralternativer, poeng og en samling som vokser når spilleren svarer riktig. Du kan også lage den som en enkel klikkbar nettside i Lovable, Bolt eller Claude, men velg bare ett verktøy. Hold deg til planen og lag ikke funksjoner AI foreslo at du kunne droppe."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Test quizen selv fra start til slutt. Rett minst én feil eller kjedelig del. Sørg for at spilleren får vite én konkret ting om søvn etter hvert spørsmål, og at tvisten først kommer etter siste svar. Ikke forklar løsningen til testeren."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "La en annen prøve quizen uten instruksjoner. Se hvor langt de kommer og hva de gjør uventet. Vis deretter tvisten og si på én setning hva du valgte å ikke lage, og hvorfor."
+   }
+  ],
+  "ai_grepet": "Bruk AI som en nedskjæringsredaktør: Be den finne ut hva du ikke trenger å lage for at ideen fortsatt skal fungere. Du bestemmer selv hvilke forslag som er gode, og lager en mindre, tydeligere quiz.",
+  "verktoy": [
+   {
+    "navn": "Scratch",
+    "hvorfor": "Gratis og godt egnet for en enkel quiz med poeng, samling og overraskende sluttscene. Kan brukes uten konto hvis du lager en papirprototype først."
+   },
+   {
+    "navn": "Lovable",
+    "hvorfor": "Kan lage en enkel klikkbar quizside fra en kort beskrivelse, hvis du vil prøve vibe-koding."
+   },
+   {
+    "navn": "Bolt",
+    "hvorfor": "Et alternativ for å lage en liten quizside, med mulighet for å be om få og tydelige funksjoner."
+   },
+   {
+    "navn": "Papir, penn og mobilkamera",
+    "hvorfor": "Du kan lage quizen som kort eller papirskjermer, og filme en annen person som spiller. Da er spillideen viktigere enn teknikken."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start med bare fire spørsmål, tre svaralternativer og én sluttskjerm. Alt annet er ekstra.",
+   "Be AI svare: «Hva kan jeg kutte fra denne quizideen og fortsatt lære bort tre ting om søvn?»",
+   "La samlingen være enkel: ett merke, én sokk, én stjerne eller ett bilde for hvert riktig svar."
+  ],
+  "vis_fram": "La en annen person prøve quizen uten forklaring. Etterpå viser du slutten på nytt og sier kort: «Tvisten var …, og jeg droppet … fordi …»",
+  "bonus": "Lag én falsk knapp som ser viktig ut, men bare gir spilleren en rar melding før quizen fortsetter. Test om noen trykker på den.",
+  "til_hjelperen": "Se etter om deltakeren faktisk har kuttet funksjoner, i stedet for å bygge alt AI foreslår. Spør: «Hva måtte du ikke lage for at quizen skulle bli ferdig, og hva gjorde du i stedet?»",
+  "tags": [
+   "spilldesign",
+   "søvn",
+   "quiz",
+   "nedskjæring",
+   "Scratch"
+  ],
+  "minutter": 60,
+  "kategori": "spill",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en quiz som lærer deg noe",
+   "tema": [
+    "en ting du samler på",
+    "søvn"
+   ],
+   "vri": "det må ha en tvist på slutten"
+  }
+ },
+ {
+  "tittel": "Rimregn i Mjøsa",
+  "teaser": "Kom inn, kom inn – bygg en naturmaskin der alle skapninger rimer, og se om AI klarer seg uten deg!",
+  "oppdrag": "Lag en liten spillbar simulering av noe i naturen, for eksempel en innsjø, maurtue, skog eller skyverden. Spillet skal handle om å være ny et sted, inneholde minst ett ord som ikke finnes på norsk, og alt spilleren ser eller hører skal rime. Lag først en enkel versjon uten AI, og lag deretter en AI-versjon av den samme ideen for å sammenlikne dem.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Velg et naturområde og tegn spillets verden på papir. Bestem hva som flytter seg, hva spilleren skal gjøre, og finn på minst tre rimende regler eller beskjeder. Lag også ett nytt norsk-aktig ord."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Bygg papirversjonen eller en helt enkel digital skisse uten AI. Den må kunne spilles eller forklares på 30 sekunder: Spilleren er ny, gjør ett valg og får en rimende konsekvens."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Test den på en annen gruppe eller person. Skriv ned hvor de skjønte reglene, hvor de ble forvirret, og hvilket rim eller nytt ord de husket."
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Lag AI-versjonen av den samme simuleringen. Be AI om hjelp til akkurat det dere står fast på, for eksempel kode, spilleregler, tekst, lyder eller en figur. Gi AI tydelige begrensninger: naturen, det nye ordet og at alt må rime."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Rydd og forbedre begge versjonene. Fjern AI-forslag som ikke passer, rett rim som blir klønete, og sørg for at begge versjonene har samme grunnidé. Skriv en liten lapp med prompten dere brukte."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Vis begge versjonene. La gruppa prøve eller høre én runde av hver, og fortell kort hva menneskeversjonen gjorde bedre enn AI-versjonen – og omvendt."
+   }
+  ],
+  "ai_grepet": "Lag først en fungerende versjon uten AI, og bruk deretter AI til å lage eller forbedre den samme versjonen. Sammenlikn resultatene og velg selv hvilke AI-forslag som faktisk gjør spillet bedre.",
+  "verktoy": [
+   {
+    "navn": "Scratch",
+    "hvorfor": "Gratis og lett å bruke til en enkel natur-simulering med figurer, regler og poeng."
+   },
+   {
+    "navn": "penn, papir og mobilkamera",
+    "hvorfor": "Dere kan lage et fysisk spillbrett eller et kortspill uten kode, filme en gjennomspilling og vise forskjellen tydelig."
+   },
+   {
+    "navn": "Lovable, Bolt eller Claude",
+    "hvorfor": "Kan hjelpe dere å lage en liten nettbasert simulering når dere vil ha mer kode og interaksjon."
+   },
+   {
+    "navn": "ChatGPT, Gemini eller Claude",
+    "hvorfor": "Kan brukes som sparringspartner når dere står fast på regler, rim, kode eller hvordan en simulering kan fungere."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "La naturen være en dam med én ny frosk som prøver å finne riktig sted å bo.",
+   "Bruk det nye ordet som navnet på en art, regel eller fare, for eksempel «plaskefnatt» eller «snurresmå».",
+   "Start med tre objekter, én handling og én konsekvens. Gjør spillet større bare hvis grunnrunden fungerer."
+  ],
+  "vis_fram": "Vis først den håndlagde eller menneskelagde versjonen i 15 sekunder, deretter AI-versjonen i 15 sekunder. Pek på lappen med prompten og si én ting dere beholdt fra AI, og én ting dere kastet.",
+  "bonus": "Bytt på én regel mellom versjonene, for eksempel at det nye ordet får en annen betydning, og se om publikum oppdager hvilken versjon som er hvilken.",
+  "til_hjelperen": "Se etter om gruppa faktisk sammenlikner to versjoner med samme grunnidé, ikke bare lager et AI-spill etterpå. Spør: «Hvilket AI-forslag måtte dere fikse, og hvorfor?»",
+  "tags": [
+   "spilldesign",
+   "natur",
+   "rim",
+   "sammenlikning",
+   "Hamar"
+  ],
+  "minutter": 60,
+  "kategori": "spill",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en simulering av noe i naturen",
+   "tema": [
+    "å være ny et sted",
+    "et ord som ikke finnes på norsk"
+   ],
+   "vri": "alt må rime"
+  }
+ },
+ {
+  "tittel": "Skrøner langs Mjøsa",
+  "teaser": "Kom og bli med på Hamar-vandringen der én løgn prøver å lure hele byen!",
+  "oppdrag": "Lag en byvandring på fem stopp i Hamar. Hvert stopp skal ha en kort tekst i Hamar-dialekt om noe folk tror er sant, men som kanskje er feil. Gi AI én falsk faktaopplysning og se hvor lenge den godtar den før den oppdager feilen – men du bestemmer selv hva som faktisk skal stå.",
+  "steg": [
+   {
+    "tid": "10 min",
+    "tekst": "Gå eller tenk deg fram til fem steder i Hamar, for eksempel Domkirkeodden, Mjøsstranda, Stortorget, Koigen eller jernbanestasjonen. Skriv ned én mulig påstand til hvert sted: noe folk tror, en lokal skrøne eller en rar detalj. Velg én av påstandene som skal være falsk."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Velg ett tekstverktøy. Skriv denne beskjeden, og bytt ut teksten i klammene: «Jeg lager en byvandring på fem stopp i Hamar. Svar på Hamar-dialekt. Påstandene er: [skriv inn fem påstander]. Én av dem er med vilje falsk: [skriv inn den falske]. Ikke gjett med én gang. Still meg ett spørsmål om gangen og si først tydelig fra når du mener du har oppdaget den falske faktaen.»"
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Svar AI-en som om du er en litt sleip guide. Hvis den spør om kilder eller detaljer, kan du gi korte svar, men ikke avslør løgnen. Noter hvor mange spørsmål eller svar det tok før AI-en merket den. Ta vare på den morsomste misforståelsen fra samtalen."
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Lag den ferdige vandringen på ett ark eller en digital plakat: fem nummererte stopp, stedsnavn, én kort dialekttekst per stopp og en liten merkelapp ved fasiten. Skriv om AI-forslagene så de høres ut som deg. Sjekk lokale fakta med en trygg kilde, eller merk påstanden som «skrøne» hvis du ikke kan bekrefte den."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Heng opp eller gjør plakaten klar for visning. Legg ved en lapp med prompten du brukte, hvilken påstand som var falsk, og hvor mange spørsmål det tok før AI-en oppdaget den. Øv på å presentere ett stopp og avslør løgnen på slutten."
+   }
+  ],
+  "ai_grepet": "Du gir AI én falsk fakta med vilje og tester hvor lenge den godtar den før den protesterer. Grepet kan brukes senere til å undersøke hvor godt en idé, kilde eller påstand tåler motspørsmål – men du må selv sjekke hva som er sant.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT",
+    "hvorfor": "Enkelt å lime inn påstandene og ha en samtale der AI-en stiller ett spørsmål om gangen."
+   },
+   {
+    "navn": "Gemini",
+    "hvorfor": "Kan brukes på samme måte, og passer hvis du vil sammenligne hvor raskt et annet verktøy reagerer."
+   },
+   {
+    "navn": "Claude",
+    "hvorfor": "God til å hjelpe med korte tekster og dialektforslag. Du kan lage selve plakaten i et dokument etterpå."
+   },
+   {
+    "navn": "Google Docs eller penn og papir",
+    "hvorfor": "Gratis og uten behov for avansert design; bruk AI bare til samtalen og lag resten selv."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Start med disse fem stoppene: Stortorget, Mjøsstranda, Koigen, Domkirkeodden og jernbanestasjonen.",
+   "Skriv en enkel påstand som «Mjøsa er egentlig lilla om natta» eller «Alle Hamar-folk sier ...». Den trenger ikke være troverdig for å bli morsom.",
+   "Be AI-en om å stille bare ett spørsmål om gangen. Da blir det lettere å se når den endelig skjønner at noe skurrer."
+  ],
+  "vis_fram": "Hold opp plakaten og les teksten fra ett stopp på Hamar-dialekt. Si deretter: «Men her lurte jeg både guiden og AI-en», og pek på den falske påstanden, samt lappen med prompten og antall spørsmål.",
+  "bonus": "Lag en liten «AI-detektor»-skala på plakaten fra 1 til 5: Hvor sikker var AI-en før den oppdaget løgnen? La en annen deltaker prøve å lure den med en ny påstand.",
+  "til_hjelperen": "Se etter at deltakeren ikke bare kopierer AI-teksten, men velger steder, påstander og dialekt selv. Spør: «Hva fikk deg til å stole på – eller tvile på – svaret fra AI-en?»",
+  "tags": [
+   "Hamar",
+   "dialekt",
+   "kildekritikk",
+   "byvandring",
+   "skrøner"
+  ],
+  "minutter": 60,
+  "kategori": "hamar",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en byvandring på fem stopp",
+   "tema": [
+    "en misforståelse",
+    "noe alle tror er sant men som er feil"
+   ],
+   "vri": "det skal være i Hamar-dialekt"
+  }
+ },
+ {
+  "tittel": "Mysteriet i rommet",
+  "teaser": "Kom inn, kom inn – hør den utrolige vinternyheten fra Hamar anno 1899, og gjett hva maskinen fant på!",
+  "oppdrag": "Lag en kort lydavis fra Hamar i 1899 om en ting dere ser i rommet. Den skal handle om vinter og det beste med å være 15 år, som om gjenstanden nettopp har utløst en stor lokal nyhet. Ta opp eller framfør saken, og la de andre gjette hvilke deler som er laget av AI og hvilke dere har laget selv.",
+  "steg": [
+   {
+    "tid": "8 min",
+    "tekst": "Uten AI: Se dere rundt og velg én gjenstand i rommet. Skriv ned fem konkrete detaljer om den, pluss én rar teori om hva den egentlig gjør om vinteren for en 15-åring i Hamar i 1899."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Ta et bilde av gjenstanden. Bruk bildet som utgangspunkt i et AI-verktøy som kan lese bilder, og be om tre ulike ideer til en avisnyhet fra Hamar i 1899. Be om én alvorlig, én overdrevet og én helt merkelig variant."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Velg én idé, men bestem selv hva som skal beholdes, fjernes og skrus opp. Skriv en kort nyhetssak på 45–60 sekunder med overskrift, dramatisk innledning og minst én tydelig detalj fra rommet."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Lag lydversjonen: Les saken inn på mobil, eller framfør den som en nyhetssending med lyder fra rommet. Legg gjerne på én enkel vinterlyd, for eksempel knirkende snø, vind eller en hjemmesnekret fanfare."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Test saken på én annen gruppe eller person uten å forklare prosessen. Be dem gjette hva som er AI og hva som er deres eget. Endre én ting som gjør skillet vanskeligere eller morsommere å oppdage."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Spill av eller framfør saken for alle. Etterpå avslører dere gjettingen: Vis bildet av gjenstanden, les opp én AI-idé dere forkastet, og pek ut én detalj dere selv fant på."
+   }
+  ],
+  "ai_grepet": "Ta et bilde av noe i rommet og bruk bildet som råstoff for hele skapelsen: AI foreslår muligheter, mens gruppa velger retning, skriver om og bestemmer hva som faktisk blir med. Grepet kan brukes til historier, reklamer, sanger, spillidéer eller filmer.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan lese et opplastet bilde og foreslå historiske nyhetsideer, overskrifter og formuleringer."
+   },
+   {
+    "navn": "Mobilkamera + Google Docs eller Notes",
+    "hvorfor": "Gratis og uten behov for avansert AI; bruk bildet som utgangspunkt og skriv eller spill inn selv."
+   },
+   {
+    "navn": "CapCut",
+    "hvorfor": "Kan ta opp stemmen og legge på enkle vinterlyder eller klippe en kort lyd-/videoversjon."
+   },
+   {
+    "navn": "Canva",
+    "hvorfor": "Kan lage en gammeldags avisforside rundt bildet hvis dere vil vise saken visuelt i tillegg."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "Skriv: «Se på dette bildet. Hva kunne en avis i Hamar i 1899 ha misforstått eller overdrevet ved denne gjenstanden?»",
+   "La gjenstanden være «byens nye vinteroppfinnelse», «beviset på at 15-åringer har for mye fritid» eller «årsaken til en mystisk hendelse i rommet».",
+   "Bruk én konkret detalj, som farge, knapp, sprekk eller lyd, som bevis i saken."
+  ],
+  "vis_fram": "Spill av lydsaken eller framfør den på maks 30 sekunder. Be publikum peke ut én setning eller lyd de tror er AI-laget, før dere avslører valgene deres.",
+  "bonus": "Lag en ekstra, falsk avisoverskrift om samme gjenstand – denne gangen skrevet av en 15-åring i Hamar i 2099. Les begge etter hverandre.",
+  "til_hjelperen": "Se etter om gruppa faktisk bruker bildet som råstoff, i stedet for å la AI lage en generell historie. Spør: «Hvilken detalj i sluttresultatet kunne bare ha kommet fra akkurat denne gjenstanden og dette rommet?»",
+  "tags": [
+   "Hamar",
+   "lokalhistorie",
+   "lydavis",
+   "bilde som råstoff",
+   "AI-vurdering"
+  ],
+  "minutter": 60,
+  "kategori": "hamar",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en avis fra Hamar i 1899",
+   "tema": [
+    "vinter",
+    "det beste med å være 15"
+   ],
+   "vri": "det skal handle om noe i rommet dere sitter i"
+  }
+ },
+ {
+  "tittel": "Rettferdig for elgen",
+  "teaser": "Kom inn og se en ordløs mini-forestilling der en elg, en kropp og en urettferdig regel må få hele salen til å forstå!",
+  "oppdrag": "Lag en scene uten ord på 30–60 sekunder om noe som er urettferdig, med et dyr som lever i Innlandet. Publikum skal forstå hva som skjer uten forklaring, og scenen må kunne forstås av en 6-åring. Bruk to ulike tekst-AI-er til å foreslå ideer, og velg selv det beste fra begge.",
+  "steg": [
+   {
+    "tid": "8 min",
+    "tekst": "Uten AI: Velg et dyr fra Innlandet, for eksempel elg, ulv, bever eller gaupe. Finn på en enkel urettferdig regel, som «bare én får spise» eller «den minste må alltid stå bakerst». Lag tre raske skisser med kropp og bevegelser."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Be én tekst-AI om tre forslag til en ordløs scene med dyret og den urettferdige regelen. Be en annen tekst-AI om tre helt andre forslag. Skriv gjerne: «Jeg skal lage en scene uten ord som et barn på 6 år forstår. Dyret er ____. Urettferdigheten er ____. Gi meg tre korte forslag med tydelige bevegelser.»"
+   },
+   {
+    "tid": "8 min",
+    "tekst": "Les forslagene. Velg én ting du liker fra den første AI-en og én ting fra den andre. Kast resten. Tegn eller skriv scenen som tre bilder: start, urettferdig øyeblikk, slutt."
+   },
+   {
+    "tid": "12 min",
+    "tekst": "Lag en enkel versjon alene. Bruk bare kropp, ansikt og eventuelt én stol, jakke eller annen trygg rekvisitt. Ingen ord, lyder eller tekstskilt."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Test scenen på én annen person hvis mulig. Ikke forklar først. Spør etterpå: «Hva tror du var urettferdig?» Hvis svaret bommer, gjør én bevegelse tydeligere og spill scenen på nytt."
+   },
+   {
+    "tid": "7 min",
+    "tekst": "Gjør siste forbedring: fjern én ting som forvirrer, og gjør sluttbildet ekstra tydelig. Øv på å holde scenen innen 60 sekunder."
+   },
+   {
+    "tid": "5 min",
+    "tekst": "Vis scenen for gruppa. Etterpå forteller du én ting som overrasket deg, for eksempel at de to AI-ene foreslo helt ulike løsninger, eller at publikum tolket en bevegelse annerledes enn du ventet."
+   }
+  ],
+  "ai_grepet": "Du lar to ulike AI-er lage hver sin versjon av samme idé. Så er det du som sammenligner, plukker ut det beste og gjør forslaget om til en scene som faktisk fungerer med kroppen.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT",
+    "hvorfor": "Enkel å bruke til korte idéforslag og omskriving til tydelige bevegelser."
+   },
+   {
+    "navn": "Claude",
+    "hvorfor": "Kan gi andre typer sceneidéer enn den første AI-en, slik at du får noe å sammenligne."
+   },
+   {
+    "navn": "Gemini",
+    "hvorfor": "Et alternativ til den andre AI-en for å få en ny versjon av samme oppdrag."
+   },
+   {
+    "navn": "Penn, papir og mobilkamera",
+    "hvorfor": "Du kan planlegge med tegninger og filme prøven uten å bruke flere digitale verktøy."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "La dyret være en elg og regelen være «elgen med de største geviret får alltid plassen først».",
+   "Bruk tre tydelige frys-bilder: glad eller rolig start, urettferdig behandling, ny og rettferdig slutt.",
+   "Tenk som en tegnefilm: Hva kan du vise med én stor bevegelse i stedet for mange små?"
+  ],
+  "vis_fram": "Spill scenen uten forklaring. Si deretter én ting som overrasket deg: enten noe AI-ene foreslo, noe du valgte bort, eller noe publikum forsto annerledes enn du trodde.",
+  "bonus": "Lag en alternativ slutt der dyret løser urettferdigheten uten å ta hevn, og la gruppa stemme på hvilken slutt som er tydeligst.",
+  "til_hjelperen": "Se etter om ungdommen selv velger mellom AI-forslagene, i stedet for å kopiere ett forslag direkte. Spør: «Hvilken bevegelse gjør urettferdigheten lettest å forstå for en 6-åring?»",
+  "tags": [
+   "scene uten ord",
+   "kropp",
+   "Innlandet",
+   "AI-sammenligning",
+   "rettferdighet"
+  ],
+  "minutter": 60,
+  "kategori": "kropp",
+  "niva": "nybegynner",
+  "gruppe": false,
+  "ingredienser": {
+   "medium": "en scene uten ord",
+   "tema": [
+    "det som er urettferdig",
+    "et dyr som lever i Innlandet"
+   ],
+   "vri": "det må kunne forstås av en 6-åring"
+  }
+ },
+ {
+  "tittel": "Søvntalkshow fra 2041",
+  "teaser": "Kom inn, kom inn – i kveld avslører vi hvorfor ingen i 2041 får sove, og én av versjonene er laget av kunstig intelligens!",
+  "oppdrag": "Lag en talkshow-sketsj på 2–3 minutter om søvn i året 2041. Lag én del med AI og én del uten AI, med samme grunnidé, og spill begge for gruppa. Alt må kunne forstås av en 6-åring – selv om framtidas søvnregler er helt tullete.",
+  "steg": [
+   {
+    "tid": "5 min",
+    "tekst": "Uten AI: Finn på talkshowet, gjesten og problemet. Velg én enkel grunnidé, for eksempel at alle må sove stående, at drømmer kan lastes ned, eller at Mjøsa brukes som gigantisk vugge. Skriv ned 3–5 nøkkelord og fordel roller."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Lag den menneskelige versjonen uten AI. Skriv en kort åpning, tre spørsmål fra programlederen og en morsom avslutning. Bruk kropp, blikk og en enkel rekvisitt hvis dere vil."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Lag AI-versjonen med samme grunnidé og omtrent samme struktur. Be et tekstverktøy om forslag til spørsmål, svar eller en rar framtidsdetalj. Velg selv hva som er morsomt, forståelig og mulig å spille – ikke bruk hele forslaget ukritisk."
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Skriv om begge versjonene så de blir tydelig forskjellige, men fortsatt handler om det samme. Gi AI-versjonen én detalj dere beholder, én dere endrer og én dere kaster. Gjør språket enkelt nok for en 6-åring."
+   },
+   {
+    "tid": "15 min",
+    "tekst": "Øv og spill inn eller framfør begge versjonene. Hold hver versjon på omtrent ett minutt. Legg inn en tydelig overgang, som: «Nå kommer den andre søvneksperten!»"
+   },
+   {
+    "tid": "10 min",
+    "tekst": "Spill dem av eller framfør dem for gruppa uten å avsløre hvilken som er hvilken. La de andre gjette hva som er AI og hva som er laget av dere, og si etterpå hva dere beholdt, endret og kastet."
+   }
+  ],
+  "ai_grepet": "Dere lager to versjoner av samme idé: én med AI som råstoff og én uten AI. Ved å sammenlikne dem foran andre trener dere på å merke forskjellen mellom egne valg og AI-forslag – og på å redigere AI i stedet for å adlyde den.",
+  "verktoy": [
+   {
+    "navn": "ChatGPT, Claude eller Gemini",
+    "hvorfor": "Kan foreslå talkshowspørsmål, gjestesvar og framtidsdetaljer som dere deretter vurderer og gjør til deres egne."
+   },
+   {
+    "navn": "Google Docs eller Notes",
+    "hvorfor": "Enkelt for gruppa å skrive begge versjonene side om side og markere hva som er beholdt, endret og kastet."
+   },
+   {
+    "navn": "Mobilkamera",
+    "hvorfor": "Gir dere en rask måte å spille inn begge sketsjene på, særlig hvis dere vil vise dem etter hverandre."
+   },
+   {
+    "navn": "Penn og papir",
+    "hvorfor": "Fungerer helt uten konto eller innlogging, og passer godt til stikkord, rollefordeling og raske endringer."
+   }
+  ],
+  "hvis_du_star_fast": [
+   "La gjesten være en robot som ikke skjønner forskjellen på søvn og strømsparemodus.",
+   "Gi programlederen ett veldig enkelt spørsmål: «Hvorfor må vi sove?» La svaret bli stadig rarere.",
+   "Bruk en stol som tidsmaskin, søvnmaskin eller framtidas ekspertpanel."
+  ],
+  "vis_fram": "Spill av eller framfør de to korte versjonene uten å si hvilken som er AI-versjonen. La gruppa stemme med tommel opp for «AI» eller «menneske», og avslør deretter hva dere gjorde forskjellig.",
+  "bonus": "Lag en tredje, blandet versjon der dere kombinerer den beste menneskelige vitsen med den beste AI-idéen. La gruppa gjette om denne er mest AI, mest dere – eller en helt ny skapning.",
+  "til_hjelperen": "Se etter om gruppa faktisk lager to versjoner med samme grunnidé, og om de gjør egne valg i AI-materialet. Spør: «Hva foreslo AI som dere kastet, og hvorfor?»",
+  "tags": [
+   "scene",
+   "søvn",
+   "2041",
+   "AI-sammenlikning",
+   "talkshow"
+  ],
+  "minutter": 60,
+  "kategori": "kropp",
+  "niva": "vant",
+  "gruppe": true,
+  "ingredienser": {
+   "medium": "en talkshow-sketsj",
+   "tema": [
+    "2041",
+    "søvn"
+   ],
+   "vri": "det må kunne forstås av en 6-åring"
+  }
+ }
+]
