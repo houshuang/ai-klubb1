@@ -9,7 +9,7 @@ async function fetchJSON(path, opts = {}) {
   });
   let data = null;
   try { data = await r.json(); } catch (_) { /* no body */ }
-  if (!r.ok) throw new Error((data && data.detail) || `Feil ${r.status}`);
+  if (!r.ok) throw new Error((data && data.detail) || (r.status === 503 ? "Kø ved automaten. Prøv igjen om et øyeblikk." : `Feil ${r.status}`));
   return data;
 }
 

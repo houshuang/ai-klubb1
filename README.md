@@ -61,7 +61,7 @@ Uten `OPENAI_API_KEY` svarer automaten fra seed-banken og speilet sier at det ma
 ```
 
 Trenger `/etc/klubb1.env` på serveren (se `deploy/klubb1.env.example`). Nginx-fragmentet
-(`deploy/nginx-klubb1.conf`) er bevisst smalt: statiske filer + `/klubb1/api/` med 20 req/min per IP,
+(`deploy/nginx-klubb1.conf`) er bevisst smalt: statiske filer + `/klubb1/api/` med 120 req/min per IP (en klubbkveld sitter bak én NAT-adresse),
 64 kB body, kun GET/POST. Daglige tak (`KLUBB1_MAX_*`) stopper regningen hvis noe løper løpsk.
 
 Fyll seed-banken på serveren:
@@ -75,8 +75,9 @@ scp alif:/opt/klubb1/backend/seed_tasks.json backend/seed_tasks.json   # og comm
 
 Alt som trengs er en Linux-boks med Python 3.12, nginx og en OpenAI-nøkkel. Bytt `alif` i
 `deploy.sh`, endre `server_name`, og sett klubbens nøkkel i `/etc/klubb1.env`. Kostnad ved
-Luna-pris ($1/M inn, $6/M ut): en lapp ≈ 0,5 øre, en speil-melding ≈ 0,2 øre. En kveld med 30
-ungdommer koster under en krone.
+Luna-pris ($1/M inn, $6/M ut): en lapp ≈ 8 øre (målt: ~1 600 tokens inn, ~1 000 ut), en speil-melding
+≈ 1 øre. En kveld med 30 ungdommer koster noen kroner. Dagstakene (`KLUBB1_MAX_*`) gir et worst case på
+rundt 50 kr/dag selv om noen misbruker det.
 
 ## Kreditering
 

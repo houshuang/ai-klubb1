@@ -168,7 +168,7 @@
         body: JSON.stringify({ modus, meldinger: hint && !text ? meldinger : meldinger, hint, kode: store.get("klubbkode", "") }),
       });
       if (!r.ok) {
-        let detail = `Feil ${r.status}`;
+        let detail = r.status === 503 ? "Kø foran speilet. Prøv igjen om et øyeblikk." : `Feil ${r.status}`;
         try { detail = (await r.json()).detail || detail; } catch (_) { /* ignore */ }
         if (r.status === 401) { gate.hidden = false; document.getElementById("kode").focus(); }
         throw new Error(detail);
