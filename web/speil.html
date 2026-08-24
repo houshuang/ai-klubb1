@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spørrespeilet — Klubb1 Tivoli</title>
+<meta name="description" content="Et speil som aldri svarer – det spør. Sokratisk veileder for AI-klubb1.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Rye&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪞</text></svg>">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <filter id="wobble"><feTurbulence type="fractalNoise" baseFrequency=".015" numOctaves="1" seed="11"/><feDisplacementMap in="SourceGraphic" scale="3"/></filter>
+</svg>
+
+<div class="page">
+  <nav class="nav">
+    <a href="./">← Tivoliet</a>
+    <div class="links"><a href="automat.html">Oppgave-automaten</a><a href="https://github.com/houshuang/ai-klubb1">Kode</a></div>
+  </nav>
+
+  <div class="mirror-wrap mt2">
+    <div class="center">
+      <div class="caps">Speil, speil på veggen · hva vil du egentlig?</div>
+      <h1 style="font-size:clamp(36px,7vw,64px)">Spørrespeilet</h1>
+      <div style="font-style:italic;margin-top:4px">Det gir deg aldri svaret. Det gir deg et bedre spørsmål.</div>
+    </div>
+
+    <div class="modes" role="radiogroup" aria-label="Hva kommer du med?">
+      <label><input type="radio" name="modus" value="ide" checked><span class="placard">Jeg har en idé</span></label>
+      <label><input type="radio" name="modus" value="fast"><span class="placard">Jeg står fast</span></label>
+      <label><input type="radio" name="modus" value="forsta"><span class="placard">Jeg vil forstå noe</span></label>
+      <label><input type="radio" name="modus" value="utfordre"><span class="placard">Utfordre meg</span></label>
+    </div>
+
+    <div class="mirror">
+      <div class="fog"></div>
+      <div class="chat" id="chat" aria-live="polite"></div>
+    </div>
+
+    <form class="talk" id="talk">
+      <textarea id="input" rows="2" placeholder="Snakk til speilet…" maxlength="2000" autocomplete="off"></textarea>
+      <button class="btn solid" type="submit" id="send">Si det</button>
+    </form>
+
+    <div class="tools-row">
+      <div class="left">
+        <button class="btn" type="button" id="hint" disabled title="Låses opp etter tre svar">☞ Dra i hint-spaken</button>
+        <span class="type small muted" id="hint-note">Låses opp etter tre svar</span>
+      </div>
+      <div class="right">
+        <button class="btn link" type="button" id="reset">Puss speilet</button>
+      </div>
+    </div>
+
+    <p class="small muted mt">Speilet husker samtalen i din nettleser, ikke på noen server. Har du det vondt? Snakk med en hjelper i klubben, eller ring Kors på halsen: <b>800 333 21</b>.</p>
+  </div>
+
+  <footer>Klubb1 Tivoli · <a href="https://aiklubb1.no">AI-klubb1</a> · Hamar</footer>
+</div>
+
+<div class="gate" id="gate" hidden>
+  <form class="frame" id="gate-form">
+    <div class="caps">Inngangsbillett</div>
+    <h2>Klubbkode</h2>
+    <p>Speilet snakker bare med medlemmer. Spør en hjelper om koden.</p>
+    <input class="field" id="kode" type="text" autocomplete="off" placeholder="kode" autocapitalize="none">
+    <div class="mt"><button class="btn solid" type="submit">Inn</button></div>
+    <p class="error" id="gate-err" hidden></p>
+  </form>
+</div>
+
+<script src="app.js"></script>
+<script>
+(() => {
+  const { fetchJSON, esc, store, readSSE, clack } = window.Tivoli;
+  const chat = document.getElementById("chat");
+  const form = document.getElementById("talk");
+  const input = document.getElementById("input");
+  const send = document.getElementById("send");
+  const hintBtn = document.getElementById("hint");
+  const hintNote = document.getElementById("hint-note");
+  const resetBtn = document.getElementById("reset");
+  const gate = document.getElementById("gate");
+  const gateForm = document.getElementById("gate-form");
+  const gateErr = document.getElementById("gate-err");
+
+  let modus = "ide";
+  let meldinger = [];
+  let busy = false;
+  let kodeKreves = false;
+
+  const key = () => `speil.${modus}`;
+
+  function modusValgt() {
+    return document.querySelector('input[name="modus"]:checked').value;
+  }
+
+  function userTurns() { return meldinger.filter((m) => m.role === "user").length; }
+
+  function updateHint() {
+    const n = userTurns();
+    const ok = n >= 3 && !busy;
+    hintBtn.disabled = !ok;
+    hintNote.textContent = n >= 3 ? "Ett dytt. Ikke svaret." : `Låses opp etter tre svar (${n}/3)`;
+  }
+
+  function addMsg(role, text, cls = "") {
+    const el = document.createElement("div");
+    el.className = `msg ${role === "assistant" ? "mirror-msg" : role === "hint" ? "hint-msg" : "user-msg"} ${cls}`;
+    el.textContent = text;
+    chat.appendChild(el);
+    chat.scrollTop = chat.scrollHeight;
+    return el;
+  }
+
+  function render() {
+    chat.innerHTML = "";
+    for (const m of meldinger) addMsg(m.role, m.content);
+    updateHint();
+  }
+
+  async function open() {
+    modus = modusValgt();
+    meldinger = store.get(key(), []);
+    if (!meldinger.length) {
+      try {
+        const { tekst } = await fetchJSON(`speil/apning?modus=${modus}`);
+        meldinger = [{ role: "assistant", content: tekst }];
+      } catch (_) {
+        meldinger = [{ role: "assistant", content: "Speilet er dugget. Prøv igjen om litt." }];
+      }
+      store.set(key(), meldinger);
+    }
+    render();
+  }
+
+  async function ask(hint = false) {
+    if (busy) return;
+    const text = input.value.trim();
+    if (!hint && !text) return;
+    busy = true;
+    send.disabled = true;
+    hintBtn.disabled = true;
+    if (text) {
+      meldinger.push({ role: "user", content: text });
+      addMsg("user", text);
+      input.value = "";
+    }
+    if (hint) {
+      addMsg("hint", "— hint-spaken dratt —");
+      clack("lever");
+      if (!text) {
+        // the hint needs a user turn to attach to; reuse the last one
+        const last = [...meldinger].reverse().find((m) => m.role === "user");
+        if (!last) { busy = false; send.disabled = false; updateHint(); return; }
+      }
+    }
+    const el = addMsg("assistant", "", "cursor");
+    let acc = "";
+    try {
+      const r = await fetch("api/speil", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ modus, meldinger: hint && !text ? meldinger : meldinger, hint, kode: store.get("klubbkode", "") }),
+      });
+      if (!r.ok) {
+        let detail = `Feil ${r.status}`;
+        try { detail = (await r.json()).detail || detail; } catch (_) { /* ignore */ }
+        if (r.status === 401) { gate.hidden = false; document.getElementById("kode").focus(); }
+        throw new Error(detail);
+      }
+      await readSSE(r, (delta) => { acc += delta; el.textContent = acc; chat.scrollTop = chat.scrollHeight; });
+      el.classList.remove("cursor");
+      if (!acc.trim()) { acc = "…"; el.textContent = acc; }
+      meldinger.push({ role: "assistant", content: acc });
+      store.set(key(), meldinger);
+    } catch (err) {
+      el.classList.remove("cursor");
+      el.textContent = `(${err.message})`;
+      // roll back the user turn so they can retry
+      if (text) meldinger.pop();
+      store.set(key(), meldinger);
+    } finally {
+      busy = false;
+      send.disabled = false;
+      updateHint();
+      input.focus();
+    }
+  }
+
+  form.addEventListener("submit", (e) => { e.preventDefault(); ask(false); });
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); ask(false); }
+  });
+  input.addEventListener("input", () => { input.style.height = "auto"; input.style.height = Math.min(input.scrollHeight, 160) + "px"; });
+  hintBtn.addEventListener("click", () => ask(true));
+  resetBtn.addEventListener("click", () => {
+    if (!meldinger.length || confirm("Pusse speilet? Samtalen forsvinner.")) { store.del(key()); open(); }
+  });
+  document.querySelectorAll('input[name="modus"]').forEach((r) => r.addEventListener("change", open));
+
+  gateForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const k = document.getElementById("kode").value.trim();
+    if (!k) return;
+    store.set("klubbkode", k);
+    gate.hidden = true;
+    gateErr.hidden = true;
+    input.focus();
+  });
+
+  fetchJSON("meta").then((m) => {
+    kodeKreves = !!m.kode_kreves;
+    if (kodeKreves && !store.get("klubbkode")) gate.hidden = false;
+  }).catch(() => {});
+
+  open();
+})();
+</script>
+</body>
+</html>

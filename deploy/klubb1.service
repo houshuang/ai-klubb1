@@ -1,0 +1,15 @@
+[Unit]
+Description=AI-klubb1 Tivoli API (Oppgave-automaten + Spørrespeilet)
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/klubb1/backend
+EnvironmentFile=/etc/klubb1.env
+ExecStart=/opt/klubb1/backend/.venv/bin/uvicorn app:app --host 127.0.0.1 --port 3005
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
